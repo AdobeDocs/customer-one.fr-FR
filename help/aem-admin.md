@@ -4,7 +4,7 @@ seo-title: Adobe Experience Manager - Nouvelle expérience d’assistance à ven
 description: Adobe Experience Manager - Nouvelle expérience d’assistance à venir
 seo-description: Adobe Experience Manager - Nouvelle expérience d’assistance à venir
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
 
 ---
 
@@ -29,7 +29,9 @@ En tant qu’administrateur système, vous avez accès au [!DNL Adobe Admin Cons
 * Commencez facilement les conversations avec [!DNL Adobe Customer Support]
 * Octroi de l’accès des utilisateurs au portail
 
-Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système pour les produits Adobe Experience Manager/Adobe Campaign de votre entreprise en remplissant et en envoyant le [[!Formulaire de confirmation de l’administrateur système DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) d’ici le 4 novembre 2019.  En remplissant ce formulaire, vous vous assurerez que les informations d’identification appropriées sont attribuées à l’administrateur système désigné de votre entreprise.
+>[!NOTE]
+>Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système des produits Adobe Experience Manager de votre entreprise en **remplissant et en envoyant le[[!Formulaire de confirmation de l’administrateur système DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)d’ici le 4 novembre 2019**.
+>En remplissant ce formulaire, vous vous assurerez que les informations d’identification appropriées sont attribuées à l’administrateur système désigné de votre entreprise.
 
 Une confirmation par courrier électronique sera envoyée à réception du [[!Formulaire de confirmation de l’administrateur système DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
 
