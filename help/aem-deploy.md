@@ -4,7 +4,7 @@ description: Votre nouvelle expérience d’assistance clientèle Adobe est en c
 seo-title: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - contact de déploiement d’AEM
 seo-description: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - contact de déploiement d’AEM
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 17aec30cc46915788f30b9f2042ccb8a6ce6fdbf
 
 ---
 
@@ -27,7 +27,9 @@ En tant qu’administrateur système, vous avez accès au [!DNL Adobe Admin Cons
 * Commencez facilement les conversations avec [!DNL Adobe Customer Support]
 * Octroi de l’accès des utilisateurs au portail
 
-Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système pour les produits Adobe Experience Manager/Adobe Campaign de votre entreprise en remplissant et en envoyant le [[!Formulaire de confirmation de l’administrateur système DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) d’ici le 4 novembre 2019. En remplissant ce formulaire, vous vous assurerez que les informations d’identification appropriées sont attribuées à l’administrateur système désigné de votre organisation et nous fournirons plus de détails pour aider votre organisation à se préparer aux changements à venir.
+>[!NOTE]
+>Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système des produits Adobe Experience Manager de votre entreprise en **remplissant et en envoyant le[[!Formulaire de confirmation de l’administrateur système DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)d’ici le 4 novembre 2019**.
+>En remplissant ce formulaire, vous vous assurerez que les informations d’identification appropriées sont attribuées à l’administrateur système désigné de votre organisation et nous fournirons plus de détails pour aider votre organisation à se préparer aux changements à venir.
 
 Une confirmation par courrier électronique sera envoyée à réception du [[!Formulaire de confirmation de l’administrateur système DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
