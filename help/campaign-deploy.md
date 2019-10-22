@@ -1,10 +1,10 @@
 ---
-title: Votre nouvelle expérience de l’assistance clientèle Adobe arrive - Contact de déploiement de campagne
-description: Votre nouvelle expérience de l’assistance clientèle Adobe arrive - Contact de déploiement de campagne
-seo-title: Votre nouvelle expérience de l’assistance clientèle Adobe arrive - Contact de déploiement de campagne
-seo-description: Votre nouvelle expérience de l’assistance clientèle Adobe arrive - Contact de déploiement de campagne
+title: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - [!DNL Campaign] contactez le service d’assistance clientèle
+description: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - [!DNL Campaign] contactez le service d’assistance clientèle
+seo-title: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - [!DNL Campaign] contactez le service d’assistance clientèle
+seo-description: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - [!DNL Campaign] contactez le service d’assistance clientèle
 translation-type: tm+mt
-source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
+source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 
 ---
 
