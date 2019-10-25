@@ -1,26 +1,14 @@
 ---
 source-git-commit: 30844dc968b7d94b2cb29d92917a08f6cf322144
-translation-type: ht
+translation-type: tm+mt
 
 ---
 # Licence MIT
 
-© Copyright 2018 Adobe. All rights reserved.
+© Copyright 2018 Adobe. Tous droits réservés.
 
-Le présent document autorise gratuitement les personnes qui se procurent une copie
-de ce logiciel et des fichiers de documentation qui l’accompagnent (le « Logiciel ») à utiliser
-le Logiciel sans restriction, y compris sans limitation des droits
-d’utilisation, de copie, de modification, de fusion, de publication, de distribution, de cession en sous-licence et/ou de vente
-des copies du Logiciel, et autoriser les personnes auxquelles le Logiciel
-est fourni à le faire, en respectant les conditions suivantes :
+L'autorisation est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), de traiter le Logiciel sans restriction, y compris sans restriction les droits d'utilisation, de copie, de modification, de fusion, de publication, de distribution, de sous-licence et/ou de vente du Logiciel, et de permettre aux personnes auxquelles le Logiciel est fourni de le faire, sous réserve des conditions suivantes:
 
-La notice de copyright ci-dessus et cette notice d’autorisation doivent être incluses dans toutes
-les copies ou dans les parties importantes du Logiciel.
+L'avis de copyright ci-dessus et cet avis de permission seront inclus dans toutes les copies ou parties substantielles du Logiciel.
 
-LE LOGICIEL EST FOURNI « EN L’ÉTAT », SANS GARANTIE D’AUCUNE SORTE, EXPRESSE OU
-TACITE, Y COMPRIS, MAIS SANS S’Y LIMITER LES GARANTIES DE COMMERCIALISATION,
-D’ADAPTABILITÉ À UN OBJECTIF SPÉCIFIQUE ET DE NON-VIOLATION. EN AUCUN CAS, LES AUTEURS
-OU LES DÉTENTEURS DES DROITS DE COPYRIGHT NE PEUVENT ÊTRE TENUS POUR RESPONSABLES
-EN CAS DE PLAINTE, DE DOMMAGES OU DE TOUTE AUTRE RESPONSABILITÉ, SUITE À UNE ACTION OU CONTRACTUELLEMENT,
-DE RESPONSABILITÉ CIVILE DÉCOULANT DU LOGICIEL OU DE L’UTILISATION DES AUTRES ÉLÉMENTS
-DU LOGICIEL.
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPRIMÉ ORIMPLIS, Y COMPRIS MAIS PAS LIMITÉ AUX GARANTIES DE MARCHANTABILITÉ, DE FITNITÉ POUR UN BUT PARTICULIER ET DE NON-CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU LES TITULAIRES DU DROIT D'AUTEUR NE SONT RESPONSABLES D'AUCUNE REVENDICATION, DOMMAGE OU AUTORISABILITÉ, QUE CE SOIT DANS LE CADRE D'UN CONTRAT, D'UN TORT OU D'AUTRES ACTIONS EN PROVENANCE, EN DEHORS OU EN RELATION AVEC LE LOGICIEL Oui.
