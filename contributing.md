@@ -1,39 +1,50 @@
 ---
 source-git-commit: 02e2be1975b796b31595de4cdc3175e77ddc4829
-translation-type: tm+mt
+translation-type: ht
 
 ---
-# Contribuer
+# Contribution
 
-Merci d'avoir choisi de contribuer !
+Merci d’avoir décidé de contribuer !
 
 Voici un ensemble de lignes directrices à suivre pour contribuer à ce projet.
 
-## Code De Conduite
+## Code de conduite
 
-Ce projet respecte le [code de conduite](code-of-conduct.md)d’Adobe. En y participant, vous devez respecter ce code. Veuillez signaler un comportement inacceptable à Grp-opensourceoffice@adobe.com[](mailto:Grp-opensourceoffice@adobe.com).
+Ce projet se conforme au [code de conduite](code-of-conduct.md) d’Adobe. En participant,
+vous devez respecter ce code. Veuillez signaler tout comportement inacceptable à
+[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Vous Avez Une Question ?
+## Vous avez une question ?
 
-Commencez par déposer une publication. Les responsables actuels de ce projet travaillent à parvenir à un consensus autour de l'orientation du projet et à trouver des solutions dans les fils de discussion (le cas échéant).
+Commencez par signaler un problème. Les membres de comité actuels de ce projet travaillent à parvenir à un consensus
+concernant l’orientation du projet et à trouver des solutions
+ dans les fils de discussion (s’il y a lieu).
 
 ## Contrat de licence du contributeur
 
-Toutes les contributions de tiers à ce projet doivent être accompagnées d'un accord de licence contributive signé. Adobe est ainsi autorisé à redistribuer vos contributions dans le cadre du projet. [Signez notre CLA](https://opensource.adobe.com/cla.html). Vous n’avez besoin d’envoyer un CLA Adobe qu’une seule fois. Par conséquent, si vous en avez déjà soumis un, vous êtes bien avisé d’y aller !
+Toutes les contributions de tiers à ce projet doivent être accompagnées d’un
+contrat de licence du contributeur signé. Celui-ci donne à Adobe l’autorisation de redistribuer vos contributions
+dans le cadre du projet. [Signez notre CLC](https://opensource.adobe.com/cla.html). Vous n’avez besoin d’envoyer qu’une seule fois votre CLC Adobe. Par conséquent, si vous en avez déjà soumis un,
+aucune autre action n’est nécessaire.
 
 ## Examens du code
 
-Toutes les soumissions doivent être présentées sous forme de demandes d'appel et doivent être examinées par les comités de projet. Lisez la documentation [sur les demandes d’extraction de](https://help.github.com/articles/about-pull-requests/)GitHub pour en savoir plus sur l’envoi de demandes d’extraction.
+Toutes les soumissions doivent être présentées sous forme de demandes d’extraction et doivent être examinées par les comités de projet. Lisez la [documentation GitHub sur les demandes d’extraction](https://help.github.com/articles/about-pull-requests/)
+pour en savoir plus sur l’envoi de demandes d’extraction.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## Du Contributeur Au Commteur
+## De contributeur à membre de comité
 
-Nous aimons les contributions de notre communauté ! Si vous voulez aller au-delà de contributeur et devenir un engagement avec un accès en écriture et un droit de regard dans le projet, vous devez être invité au projet. Les comités existants utilisent un processus interne de nomination qui doit atteindre un consensus paresseux (le silence est l'approbation) avant que les invitations ne soient émises. Si vous estimez que vous êtes qualifié et que vous voulez vous impliquer davantage, n'hésitez pas à contacter les comités existants pour avoir une conversation à ce sujet.
+Nous apprécions beaucoup les contributions de notre communauté. Si vous voulez aller au-delà de la simple contribution et devenir membre de comité, avec un plein accès en écriture et un droit de regard sur le projet, vous devez être invité sur ce projet. Les membres de comité actuels utilisent un processus interne de nomination
+par un dit « consensus paresseux » (silence vaut approbation) avant que les invitations
+ne soient émises. Si vous estimez que vous êtes qualifié et que vous voulez vous impliquer davantage,
+n’hésitez pas à contacter les membres de comité actuels pour en parler.
 
 ## Problèmes de sécurité
 
-Les problèmes de sécurité ne doivent pas être signalés sur ce suivi des problèmes. Déposez plutôt un problème [à nos experts en sécurité](https://helpx.adobe.com/security/alertus.html)
+Les problèmes de sécurité ne doivent pas être signalés à l’aide de ce mode de suivi des problèmes. [Signalez plutôt ce problème à nos experts en sécurité](https://helpx.adobe.com/fr/security/alertus.html)
