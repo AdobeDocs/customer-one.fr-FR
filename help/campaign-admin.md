@@ -1,40 +1,40 @@
 ---
-title: '[!Campagne DNL] - Nouvelle expérience d’assistance à venir'
-seo-title: Adobe Campaign - Nouvelle expérience d’assistance aux entreprises
-description: Adobe Campaign - Nouvelle expérience d’assistance aux entreprises
-seo-description: Adobe Campaign - Nouvelle expérience d’assistance aux entreprises
-translation-type: tm+mt
+title: '[!DNL Campaign] - Amélioration de l’expérience du service clientèle en cours'
+seo-title: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
+description: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
+seo-description: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
+translation-type: ht
 source-git-commit: c991cbe424e622d24360fcd78640ea3f8079bc84
 
 ---
 
 
-# [!DNL Campaign] - Une nouvelle expérience d'assistance est à venir
+# [!DNL Campaign] - Amélioration de l’expérience du service clientèle en cours
 
-**21 octobre 2019**
+**21 octobre 2019**
 
-Nous travaillons à quelques améliorations clés de l’expérience d’assistance pour nos clients Adobe Campaign. Ces modifications, *que nous prévoyons de déployer en avril/mai 2020*, permettront à votre organisation d’accéder [!DNL Adobe Customer Support] et d’offrir une plus grande visibilité dans l’historique de vos services via un portail d’entrée commun.
+Nous travaillons à quelques améliorations clés de l’expérience du service clientèle pour nos clients Adobe Campaign. Ces modifications, *que nous prévoyons de déployer en avril/mai 2020*, permettront à votre organisation d’accéder à [!DNL Adobe Customer Support] et de bénéficier d’une meilleure visibilité de votre historique de services via un portail d’accès commun.
 
-Nous continuerons de fournir plus d'informations à votre organisation au fur et à mesure que nous nous approcherons du déploiement.
+Nous continuerons de fournir plus d’informations à votre organisation au fur et à mesure que nous nous approcherons du déploiement.
 
-Pour commencer, nous avons besoin de votre aide pour confirmer qui sera l'administrateur système au nom de votre organisation.
+Pour commencer, nous avons besoin de votre aide pour confirmer qui sera l’administrateur système pour le compte de votre organisation.
 
-## ACTION : Confirmer votre administrateur système (administrateur système)
+## ACTION : confirmer votre administrateur système
 
-Nos dossiers indiquent que vous êtes un administrateur système **désigné au sein de votre organisation**, responsable de la gestion et de l’envoi des demandes d’assistance pour ces produits Adobe.
+Nos informations indiquent que vous êtes l’**administrateur système désigné pour votre organisation**, la personne responsable de la gestion et de l’envoi des demandes au service clientèle pour ces produits Adobe.
 
-En tant qu’administrateur système, vous avez accès au [!DNL Adobe Admin Console Support Portal] qui vous permet d’effectuer les opérations suivantes :
+En tant qu’administrateur système, vous avez accès au [!DNL Adobe Admin Console Support Portal] qui vous permet d’effectuer les opérations suivantes :
 
-* Explorez les fonctionnalités améliorées de gestion des dossiers
-* Commencez facilement les conversations avec [!DNL Adobe Customer Support]
-* Octroi de l’accès des utilisateurs au portail
+* Explorer les fonctionnalités améliorées de gestion des dossiers
+* Démarrer facilement des conversations avec le [!DNL Adobe Customer Support]
+* Donner aux utilisateurs du service clientèle un accès au portail
 
 >[!NOTE]
->Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système des produits Adobe Campaign de votre entreprise en remplissant et en envoyant le [!DNL System Admin Confirmation Form] rapport avant le 4 novembre 2019.\
->En remplissant ce formulaire, vous vous assurerez que les informations d’identification appropriées sont attribuées à l’administrateur système désigné de votre entreprise.
+>Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système des produits Adobe Campaign pour votre organisation en remplissant et en envoyant le formulaire [!DNL System Admin Confirmation Form] d’ici au 4 novembre 2019.\
+>En remplissant ce formulaire, vous nous permettez d’être sûrs que les informations d’identification appropriées sont attribuées à l’administrateur système désigné pour votre organisation.
 
-Après l'envoi de la [!DNL System Admin Confirmation Form], vous n'aurez pas besoin d'autres actions pour le moment.  Nous communiquerons avec les administrateurs système pour connaître les prochaines étapes du début de 2020.
+Après l’envoi du [!DNL System Admin Confirmation Form], aucun action supplémentaire ne sera requise de votre part pour le moment. Nous contacterons les administrateurs système pour les prochaines étapes début 2020.
 
-Pour toute question concernant ce courriel, veuillez nous contacter à customercare@adobe.com.
+Pour toute question concernant cet email, veuillez nous contacter à l’adresse customercare@adobe.com.
 
-Je vous remercie de votre aide.
+Merci pour votre aide.
