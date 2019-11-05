@@ -1,38 +1,38 @@
 ---
-title: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - [!DNL Campaign] contactez le service d’assistance clientèle
-description: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - [!DNL Campaign] contactez le service d’assistance clientèle
-seo-title: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - [!DNL Campaign] contactez le service d’assistance clientèle
-seo-description: Votre nouvelle expérience d’assistance clientèle Adobe est en cours - [!DNL Campaign] contactez le service d’assistance clientèle
-translation-type: tm+mt
+title: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de dé ploiement [!DNL Campaign]
+description: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de dé ploiement [!DNL Campaign]
+seo-title: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de dé ploiement [!DNL Campaign]
+seo-description: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de dé ploiement [!DNL Campaign]
+translation-type: ht
 source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 
 ---
 
 
-# Votre nouvelle expérience d’assistance clientèle Adobe est en cours
+# Amélioration de l’expérience du service clientèle Adobe en cours
 
-**21 octobre 2019**
+**21 octobre 2019**
 
-Nous travaillons à quelques améliorations clés de l’expérience d’assistance pour nos clients Adobe Experience Manager et Adobe Campaign. Ces modifications, que nous prévoyons de déployer en avril/mai 2020, permettront à votre organisation d’accéder à votre historique de services [!DNL Adobe Customer Support] et d’en bénéficier d’une plus grande visibilité via un portail d’accès commun. Nous continuerons de fournir plus d'informations à votre organisation au fur et à mesure que nous nous approcherons du déploiement.
+Nous travaillons à quelques améliorations clés de l’expérience du service clientèle pour nos clients Adobe Experience Manager et Adobe Campaign. Ces modifications, que nous prévoyons de déployer en avril/mai 2020, permettront à votre organisation d’accéder à [!DNL Adobe Customer Support] et de bénéficier d’une meilleure visibilité de votre historique de services via un portail d’accès commun. Nous continuerons de fournir plus d’informations à votre organisation au fur et à mesure que nous nous approcherons du déploiement.
 
-Pour commencer, nous avons besoin de votre aide pour confirmer qui sera l'administrateur système au nom de votre organisation.
+Pour commencer, nous avons besoin de votre aide pour confirmer qui sera l’administrateur système pour le compte de votre organisation.
 
-## ACTION : Confirmer votre administrateur système (administrateur système)
+## ACTION : confirmer votre administrateur système
 
-Nos dossiers vous identifient comme contact principal lors du processus d’achat initial pour les produits Adobe Experience Manager/Adobe Campaign de votre entreprise. Par conséquent, vous êtes répertorié en tant qu’administrateur **** système désigné, responsable de la gestion et de l’envoi des demandes d’assistance pour ces produits Adobe.
+Nos informations vous ont identifié comme le contact principal lors du processus d’achat initial par votre organisation des produits Adobe Experience Manager/Adobe Campaign. Par conséquent, vous êtes répertorié en tant qu’**administrateur système** désigné, responsable de la gestion et de l’envoi des demandes au service clientèle pour ces produits Adobe.
 
-En tant qu’administrateur système, vous avez accès au [!DNL Adobe Admin Console Support Portal] qui vous permet d’effectuer les opérations suivantes :
+En tant qu’administrateur système, vous avez accès au [!DNL Adobe Admin Console Support Portal] qui vous permet d’effectuer les opérations suivantes :
 
-* Explorez les fonctionnalités améliorées de gestion des dossiers
-* Commencez facilement les conversations avec [!DNL Adobe Customer Support]
-* Octroi de l’accès des utilisateurs au portail
+* Explorer les fonctionnalités améliorées de gestion des dossiers
+* Démarrer facilement des conversations avec le [!DNL Adobe Customer Support]
+* Donner aux utilisateurs du service clientèle un accès au portail
 
 >[!NOTE]
->Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système des produits Adobe Campaign de votre entreprise en **remplissant et en envoyant le[[!Formulaire de confirmation de l’administrateur système DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)d’ici le 4 novembre 2019**.
->En remplissant ce formulaire, vous vous assurerez que les informations d’identification appropriées sont attribuées à l’administrateur système désigné de votre organisation et nous fournirons plus de détails pour aider votre organisation à se préparer aux changements à venir.
+>Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système des produits Adobe Campaign pour votre organisation en **remplissant et en envoyant le formulaire [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) d’ici au 4 novembre 2019**.
+>En remplissant ce formulaire, vous nous permettez d’être sûrs que les informations d’identification appropriées sont attribuées à l’administrateur système désigné pour votre organisation et de vous fournir plus de détails afin d’aider votre organisation à se préparer aux changements à venir.
 
-Une confirmation par courrier électronique sera envoyée à réception du [[!Formulaire de confirmation de l’administrateur système DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
+Une confirmation par email sera envoyée à réception du formulaire [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
-Pour toute question concernant ce courriel, veuillez nous contacter à customercare@adobe.com.
+Pour toute question concernant cet email, veuillez nous contacter à l’adresse customercare@adobe.com.
 
-Je vous remercie de votre aide.
+Merci pour votre aide.
