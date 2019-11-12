@@ -3,7 +3,7 @@ title: Adobe Experience Cloud Customer One pour Entreprise
 description: Amélioration de l’expérience du service clientèle Adobe
 seo-description: Amélioration de l’expérience du service clientèle Adobe
 seo-title: Adobe Experience Cloud Customer One pour Entreprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f76c32d1071bd2a6f573721d73026242d3398da4
 
 ---
@@ -19,7 +19,7 @@ Nous continuerons de fournir plus d’informations à votre organisation au fur 
 
 ## Informations complémentaires
 
-Cliquez sur la liste ci-dessous pour plus d’informations sur la nouvelle expérience de support technique de votre solution Adobe Experience Cloud :
+Cliquez sur la liste ci-dessous pour obtenir plus d’informations sur la nouvelle expérience du service clientèle de votre solution Adobe Experience Cloud :
 
 * [Adobe Campaign](campaign-list.md)
 * [Adobe Experience Manager](aem-list.md)
