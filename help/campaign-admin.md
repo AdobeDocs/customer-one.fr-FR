@@ -3,7 +3,7 @@ title: '[!DNL Campaign] - Amélioration de l’expérience du service clientèle
 seo-title: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
 description: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
 seo-description: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 85695d0bbd02d3ffd2286cdaa643551340b5d09d
 
 ---
@@ -33,7 +33,7 @@ En tant qu’administrateur système, vous avez accès au [!DNL Adobe Admin Cons
 >Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système des produits Adobe Campaign pour votre organisation en **remplissant et en envoyant le formulaire [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) d’ici au 4 novembre 2019**.
 >En remplissant ce formulaire, vous nous permettez d’être sûrs que les informations d’identification appropriées sont attribuées à l’administrateur système désigné pour votre organisation.
 
-An email confirmation will be sent upon receipt of the [!DNL System Admin Confirmation Form].
+Un email de confirmation sera envoyé dès réception du formulaire [!DNL System Admin Confirmation Form].
 
 Pour toute question concernant cet email, veuillez nous contacter à l’adresse customercare@adobe.com.
 
