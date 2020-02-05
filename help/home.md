@@ -1,21 +1,21 @@
 ---
-title: Adobe Experience Cloud Customer One for Enterprise
-description: Nouvelle expérience du service clientèle Adobe
-seo-description: Nouvelle expérience du service clientèle Adobe
-seo-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One pour Entreprise
+description: Amélioration de l’expérience du service clientèle Adobe
+seo-description: Amélioration de l’expérience du service clientèle Adobe
+seo-title: Adobe Experience Cloud Customer One pour Entreprise
 translation-type: tm+mt
 source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
 ---
 
 
-# Nouvelle expérience du service clientèle Adobe
+# Amélioration de l’expérience du service clientèle Adobe
 
 Nous nous soucions de nos clients et nous nous efforçons d’obtenir plus facilement de l’aide du service clientèle d’Adobe lorsque nos clients ont besoin d’aide - à commencer par les produits Adobe Experience Manager et Campaign. Notre objectif est de simplifier l&#39;expérience d&#39;assistance en passant à un portail d&#39;accès moderne, le portail d&#39;assistance de la console d&#39;admin Adobe. Nous prévoyons de mettre en oeuvre ces changements en mai 2020.  Une fois en service, votre entreprise pourra accéder au service clientèle Adobe ; avoir une plus grande visibilité dans l&#39;historique de vos services via un portail d&#39;entrée commun ; et demander de l&#39;aide par téléphone, via le Web et par le biais d&#39;un portail unique.
 
-Nous continuerons de fournir davantage d’informations à votre organisation au fur et à mesure que nous nous approcherons de la date du déploiement.
+Nous continuerons de fournir plus d’informations à votre organisation au fur et à mesure que nous nous approcherons du déploiement.
 
-## Informations supplémentaires
+## Informations complémentaires
 
 En février et en mars, Adobe configurera les nouveaux administrateurs système d’assistance et les nouveaux utilisateurs du support sur ce portail.  Si nos enregistrements indiquent que vous agissez actuellement en tant qu’administrateur du système d’assistance dans la Console d’administration d’Adobe ou que votre nom figurait dans le contrat d’achat en tant que contact client d’Adobe pour le déploiement d’Adobe Campaign et/ou d’Adobe Experience Manager au sein de votre organisation, vous serez configuré en tant qu’administrateur du système d’assistance pour votre organisation.
 
