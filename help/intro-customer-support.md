@@ -7,39 +7,40 @@ source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 ---
 
 
-# Nouvelle expérience du service clientèle Adobe
+# Amélioration de l’expérience du service clientèle Adobe
 
-Nous nous soucions de nos clients et nous nous efforçons d’obtenir plus facilement de l’aide du service clientèle d’Adobe lorsque nos clients ont besoin d’aide - à commencer par Adobe Experience Manager et Campaign produits. Notre objectif est de simplifier l&#39;expérience d&#39;assistance en passant à un portail d&#39;accès moderne, le portail d&#39;assistance de la console d&#39;admin Adobe. Nous prévoyons de mettre en oeuvre ces changements en mai 2020. Une fois en service, votre entreprise pourra accéder au service clientèle d’Adobe ; avoir une plus grande visibilité dans l&#39;historique de vos services via un portail d&#39;entrée commun ; et demander de l&#39;aide par téléphone, via le Web et par le biais d&#39;un portail unique.
+Nous tenons à nos clients et nous efforçons de leur permettre d’obtenir plus facilement de l’aide du service clientèle d’Adobe, à commencer par les produits Adobe Experience Manager et Campaign. Nous voulons simplifier notre système d’assistance grâce à un portail d’accès moderne, le portail d’assistance Adobe Admin Console. Sa mise en service est prévue pour mai 2020. Votre entreprise pourra alors accéder au service clientèle Adobe, bénéficier de la visibilité offerte par l’historique de ses services via un portail d’entrée commun et demander de l’aide par téléphone, sur le web ou le chat par le biais d’un portail unique.
 
-## Informations supplémentaires
+## Informations complémentaires
 
-En février et en mars, Adobe configurera les nouveaux administrateurs système d’assistance et les nouveaux utilisateurs du support sur ce portail. Si nos enregistrements indiquent que vous agissez actuellement en tant qu’administrateur du système d’assistance dans la Console d’administration d’Adobe ou que votre nom figurait dans le contrat d’achat en tant que contact client d’Adobe pour le déploiement  Adobe Campaign et/ou d’Adobe Experience Manager au sein de votre organisation, vous serez configuré en tant qu’administrateur du système d’assistance pour votre organisation.
-Les administrateurs système d’assistance agissent comme des super-utilisateurs dans la Console d’administration et affichent les courriers électroniques générés par le système chaque fois qu’un nouvel utilisateur du support technique est créé. En outre, ils pourront :
+Adobe configurera en février et mars les nouveaux utilisateurs et administrateurs du système d’assistance sur ce portail. S’il apparaît dans nos dossiers que vous agissez actuellement en tant qu’administrateur du système d’assistance dans Adobe Admin Console, ou si votre nom figurait dans le contrat de vente comme contact client d’Adobe pour le déploiement d’Adobe Campaign ou d’Adobe Experience Manager au sein de votre entreprise, vous serez défini comme administrateur du système d’assistance pour votre entreprise.
+Les administrateurs du système d’assistance agiront comme des super-utilisateurs dans Admin Console et recevront les e-mails générés par le système lors de la création d’un nouvel utilisateur de l’assistance. Ils pourront par ailleurs :
 
-* Créer/supprimer des utilisateurs du support dans le portail et régir les rôles d’accès
-* Tirez parti des outils de gestion des dossiers qui facilitent le traitement des dossiers d&#39;assistance avec le service d&#39;assistance clientèle d&#39;Adobe
-* Commencez facilement vos conversations de chat avec le service clientèle d’Adobe.
+* créer / supprimer des utilisateurs de l’assistance dans le portail et contrôler les rôles d’accès ;
+* utiliser les outils de gestion qui facilitent le traitement des dossiers d’assistance avec le service clientèle Adobe ;
+* lancer facilement des conversations dans le chat avec le service clientèle Adobe.
 
-## A quoi s&#39;attendre au cours des prochains mois
+## À quoi s’attendre dans les prochains mois
 
-### Février - Configuration utilisateur
+### Février - Configuration des utilisateurs
 
-* Adobe pour configurer l’administrateur système connu ; Contrat de contacts et d’utilisateurs de support connus dans le nouveau système
-* Courriers électroniques générés par le système envoyés : les utilisateurs configurent et mettent en service le système uniquement pour la création/validation des utilisateurs.
+* Adobe va configurer un administrateur système connu, des contacts pour les contrats et des utilisateurs de l’assistance connus dans le nouveau système.
+* Envoi des e-mails générés par le système : configuration des utilisateurs et mise en service du système pour la création / validation des utilisateurs uniquement.
 
 
-### Mars - Validation utilisateur
+### Mars - Validation des utilisateurs
 
-* Adobe doit contacter l’administrateur système/les contacts contractuels pour connaître les étapes suivantes : Admin système/Contacts contractuels afin de valider les utilisateurs d’assistance existants et de créer les utilisateurs d’assistance manquants dans le nouveau système.
+* Adobe doit contacter l’administrateur système et les contacts des contrats pour les étapes suivantes.
+L’administrateur système et les contacts des contrats doivent valider les utilisateurs existants de l’assistance et créer les utilisateurs de l’assistance manquants dans le nouveau système.
 
 ### Avril - Activation
 
-* Adobe fournit du matériel pédagogique à tous les utilisateurs du système d’assistance
-* Contacts Administrateur système/Contrat pour finaliser la configuration et les rôles de l&#39;utilisateur d&#39;assistance
+* Adobe doit fournir des supports d’informations à tous les utilisateurs du système d’assistance.
+* L’administrateur système et les contacts des contrats doivent finaliser la configuration des utilisateurs de l’assistance et des rôles.
 
-### Mai - Lancement !
+### Mai - Lancement !
 
-* Adobe annoncera le lancement d’un nouveau système
-* Les clients commencent à utiliser un nouveau système
+* Adobe doit annoncer le lancement du nouveau système.
+* Les clients commencent à utiliser le nouveau système.
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+Pour toute question concernant cet e-mail, veuillez nous contacter à l’adresse [customercare@adobe.com](mailto:customercare@adobe.com).
