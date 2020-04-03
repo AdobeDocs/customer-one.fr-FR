@@ -1,21 +1,21 @@
 ---
-title: Adobe Experience Cloud Customer One for Enterprise
-description: Nouvelle expérience du service clientèle Adobe
-seo-description: Nouvelle expérience du service clientèle Adobe
-seo-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One pour entreprise
+description: Amélioration de l’expérience du service clientèle Adobe
+seo-description: Amélioration de l’expérience du service clientèle Adobe
+seo-title: Adobe Experience Cloud Customer One pour entreprise
 translation-type: tm+mt
 source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 
 ---
 
 
-# Nouvelle expérience du service clientèle Adobe
+# Amélioration de l’expérience du service clientèle Adobe
 
 ## Nous sommes heureux d’annoncer le lancement du portail d’assistance de la console d’administration Adobe en avril/mai 2020 !
 
 Comme nous l’avons précédemment partagé, nous nous efforçons d’améliorer la manière dont vous interagissez avec le service clientèle d’Adobe, à commencer par Adobe Experience Manager et Campaign produits. Notre objectif est de rationaliser l’expérience d’assistance en passant à un point d’entrée unique, à l’aide de la console d’administration Adobe. Une fois installé, votre entreprise pourra accéder facilement au service clientèle Adobe ; avoir une plus grande visibilité dans l&#39;historique de vos services par le biais d&#39;un système commun à tous les produits ; et demander de l&#39;aide par téléphone, via le web et par chat via ce portail unique.
 
-## Informations supplémentaires
+## Informations complémentaires
 
 * Vous participerez à la nouvelle expérience le 27 avril ou le 11 mai.
 * Les clients recevront 2 courriers électroniques d’Adobe avec des instructions supplémentaires (10 jours avant et le jour de l’activation) pour vous avertir du jour où vous pourrez commencer à envoyer vos billets.
@@ -47,4 +47,4 @@ Envoyez-nous un courriel à [customercare@adobe.com](mailto:customercare@adobe.c
 Avant le 11 mai, vous pouvez toujours utiliser les systèmes existants [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) ou [Experience Manager Daycare](https://daycare.day.com/home.html) Case Management.  Après le 11 mai, vous serez redirigé vers la console [d&#39;](https://adminconsole.adobe.com/) administration, car ces systèmes seront alors mis hors service.
 
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+Pour toute question concernant cet e-mail, veuillez nous contacter à l’adresse [customercare@adobe.com](mailto:customercare@adobe.com).
