@@ -1,53 +1,53 @@
 ---
-title: Adobe Experience Cloud Customer One pour entreprise
+title: Adobe Experience Cloud Customer One pour Enterprise
 description: Amélioration de l’expérience du service clientèle Adobe
 seo-description: Amélioration de l’expérience du service clientèle Adobe
-seo-title: Adobe Experience Cloud Customer One pour entreprise
-translation-type: tm+mt
+seo-title: Adobe Experience Cloud Customer One pour Enterprise
+translation-type: ht
 source-git-commit: 15f3575335be07de0cf6c2926b5a05f8253f21ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
 
 # Amélioration de l’expérience du service clientèle Adobe
 
-## Billets de prise en charge de la console d’administration
+## Tickets d’assistance clientèle dans Admin Console
 
-Nous sommes heureux d’annoncer que l’expérience d’assistance clientèle d’Adobe est en ligne à compter du 11 mai 2020 !
+Nous sommes heureux de vous annoncer que le service d’assistance clientèle d’Adobe est en ligne depuis le 11 mai 2020.
 
-Les tickets d&#39;assistance peuvent désormais être envoyés via la console [d&#39;administration](https://adminconsole.adobe.com/)
+Les tickets du service clientèle peuvent désormais être envoyés par le biais du portail [Admin Console](https://adminconsole.adobe.com/)
 
-Comme indiqué précédemment, nous nous efforçons d’améliorer les formes d&#39;interaction avec le service clientèle Adobe, à commencer par les produits Adobe Experience Manager et Campaign. Nous voulons simplifier notre système d’assistance grâce à un point d’accès unique, le portail Adobe Admin Console. Votre entreprise pourra alors facilement accéder au service clientèle Adobe, bénéficier de la visibilité offerte par l’historique de ses services via un portail d’entrée commun et demander de l’aide par téléphone, sur le web ou le chat par le biais d’un portail unique.
+Comme indiqué précédemment, nous nous efforçons d’améliorer les formes d’interaction avec le service clientèle Adobe, à commencer par les produits Adobe Experience Manager et Campaign. Nous voulons simplifier notre système d’assistance grâce à un point d’accès unique, le portail Adobe Admin Console. Votre entreprise pourra alors facilement accéder au service clientèle Adobe, bénéficier de la visibilité offerte par l’historique de ses services via un portail d’entrée commun et demander de l’aide par téléphone, sur le web ou le chat par le biais d’un portail unique.
 
 ## Actions demandées aux clients
 
-1. Consultez le contenu d&#39;activation de la Console d&#39;administration [Démarrez](https://helpx.adobe.com/fr/enterprise/get-started.html), le Guide [de l&#39;](https://helpx.adobe.com/fr/enterprise/managing/user-guide.html) utilisateur et apprenez à [créer et à gérer des dossiers d&#39;assistance](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
+1. Consultez les guides d’activation du portail Admin Console [Commencer](https://helpx.adobe.com/fr/enterprise/get-started.html), [Guide d’utilisation](https://helpx.adobe.com/fr/enterprise/managing/user-guide.html) et apprenez à [créer et à gérer des dossiers d’assistance](https://helpx.adobe.com/fr/enterprise/using/support-and-expert-services.html)
 1. Connectez-vous à l’[Admin Console](https://adminconsole.adobe.com/) et vérifiez que vous y avez accès
-1. Si vous êtes administrateur système, veuillez vérifier et valider l’exactitude des informations relatives aux utilisateurs de l&#39;assistance au sein de votre entreprise (les pages suivantes pourront vous aider : [Gestion des utilisateurs](https://helpx.adobe.com/fr/enterprise/using/users.html) et [Gestion des comptes de vos équipes](https://helpx.adobe.com/fr/enterprise/using/accounts.html))
+1. Si vous êtes administrateur système, veuillez vérifier et valider l’exactitude des informations relatives aux utilisateurs de l’assistance au sein de votre entreprise (les pages suivantes pourront vous aider : [Gestion des utilisateurs](https://helpx.adobe.com/fr/enterprise/using/users.html) et [Gestion des comptes de vos équipes](https://helpx.adobe.com/fr/enterprise/using/accounts.html))
 
-## Qu&#39;en est-il des systèmes hérités ?
+## Concernant les systèmes hérités
 
-Les nouveaux billets/dossiers ne pourront plus être soumis dans les systèmes existants à compter du 11 mai.  La console [](https://adminconsole.adobe.com/) d&#39;administration sera utilisée pour envoyer de nouveaux tickets/dossiers.
+Les nouveaux billets et dossiers ne pourront plus être soumis dans les systèmes hérités à compter du 11 mai.  Le portail [Admin Console](https://adminconsole.adobe.com/) doit être utilisé pour envoyer de nouveaux billets ou dossiers.
 
-### Billets/Cas existants
+### Billets ou dossiers existants
 
-* Entre le 11 mai et le 20 mai, les systèmes hérités resteront disponibles pour traiter les dossiers/billets existants jusqu&#39;à leur achèvement.
-* À compter du 20 mai, l&#39;équipe d&#39;assistance fera migrer les dossiers restants des systèmes existants vers la nouvelle expérience d&#39;assistance.  Vous recevrez une notification par courrier électronique vous indiquant comment contacter l’assistance technique pour continuer à travailler sur ces cas.
+* Entre le 11 et le 20 mai, les systèmes hérités resteront disponibles pour traiter les billets ou dossiers existants jusqu’à leur résolution.
+* À compter du 20 mai, l’équipe du service clientèle fera migrer les dossiers restants des systèmes hérités vers le nouveau portail.  Vous recevrez une notification par courrier électronique vous indiquant comment contacter l’assistance technique afin de continuer à travailler sur ces dossiers.
 
-### Historique des cas
+### Historique des dossiers
 
-L’historique des dossiers clos sera visible par le personnel d’assistance d’Adobe.  Si vous avez besoin d&#39;aide concernant un dossier clos, veuillez consulter l&#39;aide de Besoin ? ci-dessous.
+L’historique des dossiers clos sera visible pour le personnel du service clientèle d’Adobe.  Si vous avez besoin d’aide concernant un dossier clos, veuillez consulter la section « Besoin d’aide ? » ci-dessous.
 
-## Besoin d&#39;aide ?
+## Besoin d’aide ?
 
 Après la mise en service, si vous rencontrez des difficultés et ne parvenez pas à vous connecter au nouvel outil, vous disposez des options suivantes :
 
-### Option 1 : Envoyer un ticket
+### Option 1 : envoyer un ticket
 
-Contactez-nous en enregistrant un billet de [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) et en incluant :
+Contactez-nous en enregistrant un ticket depuis [Experience League](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support) et en précisant :
 
 * Coordonnées : nom, adresse e-mail, téléphone
 * Nom de l’entreprise
@@ -57,6 +57,6 @@ Contactez-nous en enregistrant un billet de [Experience League](https://experien
 
 ### Option 2 : avant le 11 mai
 
-Avant le 11 mai, vous pouvez toujours utiliser les anciens systèmes de gestion des demandes [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) ou [Experience Manager Daycare](https://daycare.day.com/home.html).  After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will not be accepting new cases.
+Avant le 11 mai, vous pouvez toujours utiliser les anciens systèmes de gestion des demandes [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) ou [Experience Manager Daycare](https://daycare.day.com/home.html).  Après le 11 mai, vous serez redirigé vers l’[Admin Console](https://adminconsole.adobe.com/) car ces systèmes seront alors mis hors service et ne pourront plus recevoir de nouveaux dossiers.
 
-Pour toute question concernant ce courriel, veuillez nous contacter en enregistrant un billet de [Experience League](https://experienceleague.adobe.com/?support-solution=General#support).
+Pour toute question concernant cet email, veuillez nous contacter en enregistrant un ticket depuis [Experience League](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
