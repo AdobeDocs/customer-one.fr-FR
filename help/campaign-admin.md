@@ -3,9 +3,9 @@ title: '[!DNL Campaign] - Amélioration de l’expérience du service clientèle
 seo-title: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
 description: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
 seo-description: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
 
