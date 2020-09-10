@@ -3,9 +3,9 @@ title: Amélioration de l’expérience du service clientèle Adobe en cours - C
 description: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de déploiement AEM
 seo-title: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de déploiement AEM
 seo-description: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de déploiement AEM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
 ht-degree: 100%
 
