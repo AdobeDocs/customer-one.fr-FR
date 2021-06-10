@@ -5,18 +5,16 @@ description: Nouvelle expérience du service clientèle Adobe
 seo-description: Nouvelle expérience du service clientèle Adobe
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 357138a560041a9832cfe8a4f61ec8724b73ba41
+source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '784'
+ht-degree: 3%
 
 ---
 
-# Nouvelle expérience du service clientèle Adobe
+# Expérience du service clientèle d’Adobe
 
 ## Tickets d’assistance pour les Admin Console
-
-Nous sommes ravis d’annoncer que l’expérience du service clientèle de l’Adobe est en ligne à compter du 11 mai 2020 !
 
 Les tickets d’assistance peuvent désormais être envoyés via le [Admin Console](https://adminconsole.adobe.com/). Pour plus d’informations sur la manière d’envoyer un ticket d’assistance, reportez-vous à la section pour [soumettre un ticket d’assistance](#submit-ticket).
 
@@ -46,7 +44,7 @@ Une boîte de dialogue s’affiche, vous permettant de sélectionner un type de 
 
 ![Sélectionner le problème](./assets/select-case-type.png)
 
-La boîte de dialogue **[!UICONTROL Créer une casse]** s’affiche. Vous êtes invité à fournir des informations telles que le produit, la priorité, la description et à joindre des captures d’écran pour vous aider à décrire le problème. Sélectionnez **[!UICONTROL Suivant]** pour continuer.
+La boîte de dialogue **[!UICONTROL Créer un cas]** s’affiche. Vous êtes invité à fournir des informations telles que le produit, la priorité, la description et à joindre des captures d’écran pour vous aider à décrire le problème. Sélectionnez **[!UICONTROL Suivant]** pour continuer.
 
 ![créer un cas](./assets/create_case.png)
 
