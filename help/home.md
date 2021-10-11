@@ -5,7 +5,7 @@ description: Nouvelle expérience du service clientèle Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: f7c0d0ba6f3ea2bcf5b4dfd9fd138a3d011162b7
+source-git-commit: acb06781b0e56e6222394b1736fbf8a80ee2aab8
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -58,7 +58,7 @@ La page suivante vous permet de renseigner les coordonnées et de fournir le mei
 
 ## Qu&#39;en est-il des systèmes hérités ?
 
-Les nouveaux billets et dossiers ne pourront plus être soumis dans les systèmes hérités à compter du 11 mai.  Le [Admin Console](https://adminconsole.adobe.com/) sera utilisé pour envoyer de nouveaux billets/dossiers.
+Les nouveaux billets/dossiers ne pourront plus être soumis dans les systèmes hérités à compter du 11 mai.  Le [Admin Console](https://adminconsole.adobe.com/) sera utilisé pour envoyer de nouveaux billets/dossiers.
 
 ### Billets/dossiers existants
 
