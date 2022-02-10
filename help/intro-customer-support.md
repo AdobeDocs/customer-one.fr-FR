@@ -2,12 +2,12 @@
 title: Annonce de la nouvelle expérience du service clientèle Adobe
 description: Première communication client pour la nouvelle expérience du service clientèle
 hide: true
-hide-from-toc: true
+hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
-source-git-commit: b2f78f59e8dd531f723bb488dd84a38bfd0cd10a
+source-git-commit: e1bfb9d03312ddd5417672384fe0ca12376c1783
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
