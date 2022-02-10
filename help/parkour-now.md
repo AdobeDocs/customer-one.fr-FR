@@ -3,7 +3,7 @@ title: Annonce de la nouvelle expérience du service clientèle Adobe
 description: Communication client pour une nouvelle expérience du service clientèle
 hide: true
 hidefromtoc: true
-source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
+source-git-commit: d81a6d3edb3ff82e49162db4cd00923e20dba28f
 workflow-type: tm+mt
 source-wordcount: '455'
 ht-degree: 5%
@@ -38,7 +38,7 @@ En outre, les administrateurs du système d’assistance pourront :
 
 ## À quoi vous attendre après
 
-**Février/mars - Configuration utilisateur**
+**Février/mars 2022 - Configuration des utilisateurs**
 
 * Configuration des utilisateurs connus du service clientèle dans le système de portail en tant qu’administrateurs du service clientèle
 * Les courriers électroniques générés par le système seront envoyés aux utilisateurs configurés par Adobe.
@@ -47,7 +47,7 @@ En outre, les administrateurs du système d’assistance pourront :
 >
 >À ce stade, le portail n’est pas encore principal pour les demandes d’assistance.
 
-**Avril - Activation**
+**Avril 2022 - Activation**
 
 * Des supports pédagogiques seront fournis à tous les utilisateurs du système de portail.
 * Administrateur système/contacts désignés pour finaliser la configuration et les rôles des utilisateurs de l’assistance
