@@ -1,14 +1,14 @@
 ---
 keywords: prise en charge d’Experience Platform, prise en charge des plateformes, prise en charge des services intelligents ; service clientèle ; prise en charge de l’IA dédiée à l’attribution ; prise en charge de rtcdp ; envoi d’un ticket d’assistance ; service clientèle
 title: Adobe Experience Cloud Customer One pour Enterprise
-description: Amélioration de l’expérience du service clientèle Adobe
+description: Nouvelle expérience du service clientèle d’Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
 workflow-type: tm+mt
 source-wordcount: '664'
-ht-degree: 74%
+ht-degree: 76%
 
 ---
 

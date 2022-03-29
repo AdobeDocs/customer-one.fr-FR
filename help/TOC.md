@@ -7,7 +7,7 @@ user-guide-title: '[!DNL Customer One for Enterprise] Aide'
 source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
 workflow-type: tm+mt
 source-wordcount: '9'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -17,4 +17,4 @@ ht-degree: 66%
 + [Introduction](home.md)
 + Documents de référence {#ref-docs}
    + [Annonce préalable](intro-customer-support.md)
-   + [Annonce de Parkour Now](parkour-now.md)
+   + [Annonce de Parkour Now](parkour-now.md)
