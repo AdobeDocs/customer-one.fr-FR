@@ -5,9 +5,9 @@ description: Nouvelle expérience du service clientèle d’Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
-workflow-type: ht
-source-wordcount: '664'
+source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+workflow-type: tm+mt
+source-wordcount: '646'
 ht-degree: 100%
 
 ---
@@ -37,13 +37,13 @@ Nous proposons une série de réunions en ligne où les clients peuvent poser le
 
 ## Comment envoyer un ticket d’assistance Admin Console {#submit-ticket}
 
-Pour envoyer un ticket d’assistance dans l’[Admin Console](https://adminconsole.adobe.com/), vous devez disposer du rôle d’administrateur d’assistance attribué par un administrateur système. Seul un administrateur système de votre entreprise peut affecter ce rôle. Les rôles d’administrateur de produit et de profil de produit et les autres rôles d’administration ne peuvent pas affecter le rôle d’administrateur d’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour plus d’informations, consultez la documentation [Service clientèle Entreprise et Équipe](https://helpx.adobe.com/fr/enterprise/using/support-and-expert-services.html).
+Pour envoyer un ticket d’assistance dans l’[Admin Console](https://adminconsole.adobe.com/), vous devez disposer du rôle d’administrateur d’assistance attribué par un administrateur système. Seul un administrateur système de votre entreprise peut affecter ce rôle. Les rôles d’administrateur de produit et de profil de produit et les autres rôles d’administration ne peuvent pas affecter le rôle d’administrateur d’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour plus d’informations, consultez la documentation [Service clientèle Entreprise et Équipe](customer-care.md).
 
 ### Attribution du rôle d’administrateur d’assistance
 
 Le rôle d’administrateur d’assistance est un rôle non administratif qui permet d’accéder aux informations relatives à l’assistance. Les administrateurs d’assistance peuvent afficher, créer et gérer des rapports sur des problèmes.
 
-Pour attribuer un rôle d’administrateur d’assistance, suivez les instructions pour [modifier le rôle d’administrateur d’entreprise](https://helpx.adobe.com/fr/enterprise/using/admin-roles.html#add-admin-teams) dans la documentation sur les rôles d’administration. Notez que seul un administrateur système de votre entreprise peut affecter ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation sur les [rôles administratifs](https://helpx.adobe.com/fr/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html).
+Pour attribuer un rôle d’administrateur d’assistance, suivez les instructions pour [modifier le rôle d’administrateur d’entreprise](admin-roles.md#add-admin-teams) dans la documentation sur les rôles d’administration. Notez que seul un administrateur système de votre entreprise peut affecter ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation sur les [rôles administratifs](admin-roles.md).
 
 ### Création d’un ticket d’assistance avec l’Admin Console
 
