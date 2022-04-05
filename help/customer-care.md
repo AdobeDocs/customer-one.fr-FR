@@ -1,10 +1,10 @@
 ---
 title: Contacter l’assistance clientèle d’Adobe
 description: Informations sur les contacts avec l’assistance clientèle d’Adobe pour les équipes, les entreprises et les clients Experience Cloud.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -21,16 +21,22 @@ Si vous n’êtes pas sûr de votre plan d’abonnement, accédez à la **Onglet
 
 ![image de l&#39;équipe](assets/team.png)
 
-[En savoir plus](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+-->
 
 ## Compte d’entreprise
 
 ![image de l&#39;équipe](assets/enterprise.png)
 
-[En savoir plus](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+-->
 
 ## Pour Experience Cloud
 
 ![image de l&#39;équipe](assets/ec.png)
 
-[En savoir plus](https://www.adobe.com/go/ac_ec_not_supported_en)
+<!--
+[Learn more](https://www.adobe.com/go/ac_ec_not_supported_en)
+-->
