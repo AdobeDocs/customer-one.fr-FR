@@ -5,7 +5,7 @@ description: Nouvelle expérience du service clientèle Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Pour envoyer un ticket d’assistance dans [Admin Console](https://adminconsole.
 
 Le rôle d’administrateur de l’assistance est un rôle non administratif qui a accès aux informations relatives à l’assistance. Les administrateurs de l’assistance peuvent afficher, créer et gérer des rapports de problèmes.
 
-Pour attribuer un rôle d’administrateur au service clientèle, suivez le [modifier le rôle d’administrateur d’entreprise](admin-roles.md#add-admin-teams) instructions dans la documentation sur les rôles d’administration. Notez que seul un administrateur système de votre entreprise peut affecter ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la section [rôles administratifs](admin-roles.md) documentation.
+Pour attribuer un rôle d’administrateur au service clientèle, suivez le [modifier le rôle d’administrateur d’entreprise](admin-roles.md#add-enterprise-role) instructions dans la documentation sur les rôles d’administration. Notez que seul un administrateur système de votre entreprise peut affecter ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la section [rôles administratifs](admin-roles.md) documentation.
 
 ### Créer un ticket d’assistance avec un Admin Console
 
