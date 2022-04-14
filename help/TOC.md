@@ -5,9 +5,9 @@ sub-product: customer one
 audience: end-user
 user-guide-title: '[!DNL Customer One for Enterprise] Aide'
 source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '15'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 6%
 + [Contacter l’assistance clientèle d’Adobe](customer-care.md)
 + Documents de référence {#ref-docs}
    + [Annonce préalable](intro-customer-support.md)
-   + [Annonce de Parkour Now](parkour-now.md)
+   + [Annonce de Parkour Now](parkour-now.md)
