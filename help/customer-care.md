@@ -1,41 +1,41 @@
 ---
 title: Contacter l’assistance clientèle d’Adobe
-description: Informations sur les contacts avec l’assistance clientèle d’Adobe pour les équipes, les entreprises et les clients Experience Cloud.
-source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
+description: Informations sur le mode de contact avec l’assistance clientèle Adobe pour les clients Équipe, Grands comptes et Experience Cloud.
+exl-id: 4df547f1-d476-4b52-a0f1-c9d7c32679f7
+source-git-commit: 9812c6947b67797bb682581bea9c99b9d67884b6
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Grands comptes et Équipe | Contacter l’assistance clientèle Adobe
 
-# Enterprise et équipes | Contacter l’assistance clientèle d’Adobe
+Pour contacter l’assistance clientèle d’Adobe, accédez à l’onglet **Assistance** dans l’[Admin Console](https://adminconsole.adobe.com/).
 
-Pour contacter l’assistance clientèle d’Adobe, accédez à la **Assistance** dans le [Admin Console](https://adminconsole.adobe.com/).
+L’**Onglet Assistance** dans l’[Admin Console](https://adminconsole.adobe.com/) vous permet d’accéder à diverses options d’assistance par le biais d’une interface simple et conviviale. Les options disponibles dans l’onglet Assistance dépendent de votre formule d’abonnement. Pour plus d’informations, cliquez sur **En savoir plus** en fonction de votre formule d’abonnement.
 
-Le **Onglet Assistance** dans le [Admin Console](https://adminconsole.adobe.com/) vous permet d’accéder à diverses options d’assistance par le biais d’une interface simple et conviviale. Les options disponibles dans l’onglet Assistance dépendent de votre plan d’abonnement. Pour plus d’informations, cliquez sur **En savoir plus** correspondant à votre abonnement.
+Si vous n’êtes pas sûr de savoir quelle est votre formule d’abonnement, accédez à l’**Onglet Assistance** sur l’[Admin Console](https://adminconsole.adobe.com/) et comparez ce que vous voyez aux images ci-dessous. Cliquez ensuite sur le lien **En savoir plus** correspondant.
 
-Si vous n’êtes pas sûr de votre plan d’abonnement, accédez à la **Onglet Assistance** sur le [Admin Console](https://adminconsole.adobe.com/)et comparez votre vue aux images ci-dessous. Cliquez ensuite sur la **En savoir plus** lien.
+## Pour les comptes Équipe
 
-## Compte d’équipes
-
-![image de l&#39;équipe](assets/team.png)
+![image Équipe](assets/team.png)
 
 <!--
 [Learn more](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
 -->
 
-## Compte d’entreprise
+## Pour les comptes Grands comptes
 
-![image de l&#39;équipe](assets/enterprise.png)
+![image Équipe](assets/enterprise.png)
 
 <!--
 [Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
 -->
 
-## Pour Experience Cloud
+## Pour Experience Cloud
 
-![image de l&#39;équipe](assets/ec.png)
+![image Équipe](assets/ec.png)
 
 <!--
 [Learn more](https://www.adobe.com/go/ac_ec_not_supported_en)
