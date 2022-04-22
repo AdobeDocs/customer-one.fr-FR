@@ -5,9 +5,9 @@ description: Nouvelle expérience du service clientèle d’Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: ht
-source-wordcount: '646'
+source-git-commit: 0544bb44afd2b60f6203084e3a0c5943248e562f
+workflow-type: tm+mt
+source-wordcount: '487'
 ht-degree: 100%
 
 ---
@@ -19,21 +19,6 @@ ht-degree: 100%
 Les tickets du service clientèle peuvent désormais être envoyés par le biais du portail [Admin Console](https://adminconsole.adobe.com/). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section [envoi d’un ticket d’assistance](#submit-ticket).
 
 Nous nous efforçons d’améliorer votre interaction avec le service clientèle d’Adobe. Nous voulons simplifier notre système d’assistance grâce à un point d’accès unique, le portail Adobe Admin Console. Votre entreprise pourra alors facilement accéder au service clientèle Adobe, bénéficier de la visibilité offerte par l’historique de ses services via un portail d’entrée commun et demander de l’aide par téléphone, sur le web ou le chat par le biais d’un portail unique.
-
-## Besoin d’aide avec la nouvelle plateforme d’assistance ?
-
-Nous proposons une série de réunions en ligne où les clients peuvent poser leurs questions sur le nouveau processus d’assistance. Sélectionnez une ou plusieurs sessions :
-
-| Date et heure | Lien d’enregistrement |
-|--- |--- |
-| Jeudi 7 avril à 8h00, heure du Pacifique | [Lien d’événement](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
-| Jeudi 7 avril à 17h00, heure du Pacifique | [Lien d’événement](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
-| Mercredi 20 avril à 8h00, heure du Pacifique | [Lien d’événement](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
-| Mercredi 20 avril à 17h, heure du Pacifique | [Lien d’événement](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
-| Jeudi 21 avril à 8h00, heure du Pacifique | [Lien d’événement](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
-| Jeudi 21 avril à 17h00, heure du Pacifique | [Lien d’événement](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
-
-{style=&quot;table-layout:auto&quot;}
 
 ## Comment envoyer un ticket d’assistance Admin Console {#submit-ticket}
 
