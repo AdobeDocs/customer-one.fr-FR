@@ -4,7 +4,7 @@ title: Présentation de la prise en charge d’Adobe Workfront
 description: Adobe Workfront se joint à Adobe Admin Console Platform.
 source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
