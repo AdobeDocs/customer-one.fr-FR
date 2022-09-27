@@ -1,33 +1,33 @@
 ---
-title: Page d’entrée du Admin Console Workfront
-description: Page d’entrée du Admin Console Workfront
+title: Page de destination de Workfront Admin Console
+description: Page de destination de Workfront Admin Console
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '235'
+ht-degree: 100%
 
 ---
 
-# Page d’entrée du Admin Console Workfront
+# Page de destination de Workfront Admin Console
 
-Préparation à l’intégration de votre organisation à Adobe Admin Console [liste de contrôle de migration](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html):
+Préparez l’intégration de votre organisation à la [liste de contrôle de migration](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html?lang=fr) Adobe Admin Console :
 
 **Liste de contrôle de migration**
 
-* Identifiez le Adobe Admin Console souhaité dans lequel vous souhaitez ajouter Workfront.
+* Identifiez la console Adobe Admin Console dans laquelle vous souhaitez ajouter Workfront.
 
-   Si vous disposez déjà d’autres produits Adobe, veuillez confirmer votre volonté d’ajouter Adobe Workfront à votre Adobe Admin Console actuel. Si vous avez besoin d’informations supplémentaires, veuillez utiliser [ce lien](https://helpx.adobe.com/fr/enterprise/using/admin-console.html) pour comprendre les bonnes pratiques de gestion des produits Adobe.
+   Si vous disposez déjà d’autres produits Adobe, veuillez confirmer votre souhait d’ajouter Adobe Workfront à votre console Adobe Admin Console actuelle. Si vous avez besoin d’informations supplémentaires, cliquez sur [ce lien](https://helpx.adobe.com/fr/enterprise/using/admin-console.html) pour comprendre les bonnes pratiques de gestion des produits Adobe.
 
-* Reportez-vous à la section [lien suivant](https://helpx.adobe.com/enterprise/using/deployment-planning.html) pour obtenir de l’aide sur votre déploiement.
-* Si vous utilisez l’authentification unique, vous devrez connecter le nouveau Adobe Admin Console à votre fournisseur d’authentification unique existant.
-* Assurez-vous que les courriers électroniques en double sont supprimés et que seules les adresses électroniques valides sont utilisées.
-* Si vous utilisez des intégrations d’API personnalisées, vérifiez que ces utilisateurs disposent d’une adresse électronique valide à laquelle ils ont accès.
+* Reportez-vous au [lien ci-dessous](https://helpx.adobe.com/fr/enterprise/using/deployment-planning.html) pour obtenir de l’aide pour votre déploiement.
+* Si vous utilisez l’authentification unique, vous devrez connecter la nouvelle console Adobe Admin Console à votre fournisseur d’authentification unique existant.
+* Veillez à ce que les adresses e-mail en double soient supprimées et que seules des adresses e-mails valides soient utilisées.
+* Si vous utilisez des intégrations d’API personnalisées, vérifiez que ces utilisateurs disposent d’une adresse e-mail valide à laquelle ils ont accès.
 
-   Workfront recommande de mettre à jour toutes les intégrations personnalisées vers [use OAuth2](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html).
+   Workfront recommande de mettre à jour toutes les intégrations personnalisées pour [utiliser OAuth2](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html?lang=fr).
 
-Une fois la console configurée, consultez ce lien pour afficher [comment gérer les utilisateurs](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html) dans votre Adobe Admin Console.
+Une fois la console configurée, reportez-vous à ce lien pour découvrir [comment gérer les utilisateurs](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html?lang=fr) dans votre console Adobe Admin Console.
 
 >[!TIP]
 >
->Vous souhaitez sauter à l’avant de la ligne et migrer tôt ? Dites-le-nous [here](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi).
+>Vous souhaitez prendre les devants et effectuer la migration migrer tôt ? Dites-le-nous [ici](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi).
 
