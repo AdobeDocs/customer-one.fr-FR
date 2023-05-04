@@ -5,9 +5,9 @@ sub-product: customer one
 audience: end-user
 user-guide-title: "[!DNL Customer One for Enterprise] Aide"
 source-git-commit: b22777eb7d5d4a89fd02328443a10e6132f1160e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '20'
+ht-degree: 100%
 
 ---
 
