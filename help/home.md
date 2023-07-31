@@ -5,9 +5,9 @@ description: Nouvelle expérience du service clientèle d’Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
+source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '732'
 ht-degree: 78%
 
 ---
@@ -48,8 +48,8 @@ Pour attribuer un rôle d’administrateur au service clientèle à un utilisate
 
 1. Sélectionnez l’une des deux options suivantes :
 
-   * Option 1 : **[!UICONTROL Administrateur de support de base]**. Sélectionnez cette option si vous souhaitez donner à l’utilisateur l’accès à l’assistance pour toutes les solutions (à l’exception de Marketo).
-   * Option 2 : **[!UICONTROL Administrateur de support produit]**: sélectionnez cette option pour la prise en charge de Marketo. Sélectionnez les instances Marketo auxquelles accorder l’accès à l’assistance utilisateur.
+   * Option 1 : **[!UICONTROL Administrateur de support de base]**. Sélectionnez cette option si vous souhaitez donner à l’utilisateur l’accès à l’assistance pour toutes les solutions (sauf Marketo Engage).
+   * Option 2 : **[!UICONTROL Administrateur de support produit]**: sélectionnez cette option pour la prise en charge des Marketo Engage. Sélectionnez les instances de Marketo Engage auxquelles accorder l’accès à l’assistance utilisateur.
 
    ![Modifier les droits d’administrateur Marketo](assets/edit-admin-rights-advanced.png)
 
