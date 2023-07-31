@@ -5,10 +5,10 @@ description: Nouvelle expérience du service clientèle d’Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 79%
+source-wordcount: '729'
+ht-degree: 78%
 
 ---
 
@@ -60,6 +60,10 @@ L’utilisateur reçoit une invitation par e-mail concernant les nouveaux privil
 Les utilisateurs doivent cliquer sur **Commencer** dans l’e-mail pour rejoindre l’organisation. Si les nouveaux administrateurs n’utilisent pas le lien **Commencer** dans l’e-mail d’invitation, ils ne peuvent pas se connecter à l’Admin Console.
 
 Dans le cadre du processus de connexion, les utilisateurs peuvent être invités à configurer un profil Adobe s’ils n’en ont pas déjà un. Si plusieurs profils sont associés à leur adresse électronique, les utilisateurs doivent choisir **Rejoindre l’équipe** (si vous y êtes invité), puis sélectionnez le profil associé à la nouvelle organisation.
+
+![Confirmation des droits d’administrateur](assets/admin-rights-confirmation.png)
+
+Pour plus d’informations, suivez la [modifier le rôle d’administrateur d’entreprise](admin-roles.md#add-enterprise-role) instructions dans la documentation sur les rôles d’administration. Notez que seul un administrateur système de votre entreprise peut affecter ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation sur les [rôles administratifs](admin-roles.md).
 
 ### Création d’un ticket d’assistance avec l’Admin Console
 
