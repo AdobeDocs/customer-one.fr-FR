@@ -5,10 +5,10 @@ description: Nouvelle expérience du service clientèle d’Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 0544bb44afd2b60f6203084e3a0c5943248e562f
-workflow-type: ht
-source-wordcount: '487'
-ht-degree: 100%
+source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+workflow-type: tm+mt
+source-wordcount: '687'
+ht-degree: 79%
 
 ---
 
@@ -28,7 +28,38 @@ Pour envoyer un ticket d’assistance dans l’[Admin Console](https://admincon
 
 Le rôle d’administrateur d’assistance est un rôle non administratif qui permet d’accéder aux informations relatives à l’assistance. Les administrateurs d’assistance peuvent afficher, créer et gérer des rapports sur des problèmes.
 
-Pour attribuer un rôle d’administrateur d’assistance, suivez les instructions pour [modifier le rôle d’administrateur Grands comptes](admin-roles.md#add-enterprise-role) dans la documentation sur les rôles d’administration. Notez que seul un administrateur système de votre entreprise peut affecter ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation sur les [rôles administratifs](admin-roles.md).
+Pour ajouter ou inviter un administrateur :
+
+1. Dans l’Admin Console, choisissez **[!UICONTROL Utilisateurs]** > **[!UICONTROL Administrateurs]**.
+1. Cliquez sur **[!UICONTROL Ajouter un administrateur]**.
+1. Saisissez un nom ou une adresse électronique.
+
+   Vous pouvez rechercher des utilisateurs existants ou ajouter un nouvel utilisateur en spécifiant une adresse électronique valide et en renseignant les informations à l’écran.
+
+   ![Ajouter un administrateur](assets/admin-console-add-admin.png)
+
+1. Cliquez sur **[!UICONTROL Suivant]**. Une liste des rôles d’administrateur s’affiche.
+
+Pour attribuer un rôle d’administrateur au service clientèle à un utilisateur (permettre à un utilisateur de contacter le service d’assistance) :
+
+1. Sélectionnez la variable **[!UICONTROL Administrateur de support]** .
+
+   ![Modifier les droits d’administrateur](assets/edit-admin-rights.png)
+
+1. Sélectionnez l’une des deux options suivantes :
+
+   * Option 1 : **[!UICONTROL Administrateur de support de base]**. Sélectionnez cette option si vous souhaitez donner à l’utilisateur l’accès à l’assistance pour toutes les solutions (à l’exception de Marketo).
+   * Option 2 : **[!UICONTROL Administrateur de support produit]**: sélectionnez cette option pour la prise en charge de Marketo. Sélectionnez les instances Marketo auxquelles accorder l’accès à l’assistance utilisateur.
+
+   ![Modifier les droits d’administrateur Marketo](assets/edit-admin-rights-advanced.png)
+
+1. Une fois les sélections effectuées, cliquez sur **[!UICONTROL Enregistrer]**.
+
+L’utilisateur reçoit une invitation par e-mail concernant les nouveaux privilèges d’administrateur de `message@adobe.com`.
+
+Les utilisateurs doivent cliquer sur **Commencer** dans l’e-mail pour rejoindre l’organisation. Si les nouveaux administrateurs n’utilisent pas le lien **Commencer** dans l’e-mail d’invitation, ils ne peuvent pas se connecter à l’Admin Console.
+
+Dans le cadre du processus de connexion, les utilisateurs peuvent être invités à configurer un profil Adobe s’ils n’en ont pas déjà un. Si plusieurs profils sont associés à leur adresse électronique, les utilisateurs doivent choisir **Rejoindre l’équipe** (si vous y êtes invité), puis sélectionnez le profil associé à la nouvelle organisation.
 
 ### Création d’un ticket d’assistance avec l’Admin Console
 
