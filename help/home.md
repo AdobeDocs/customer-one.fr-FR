@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
 source-wordcount: '732'
-ht-degree: 78%
+ht-degree: 91%
 
 ---
 
@@ -34,24 +34,24 @@ Pour ajouter ou inviter un administrateur :
 1. Cliquez sur **[!UICONTROL Ajouter un administrateur]**.
 1. Saisissez un nom ou une adresse électronique.
 
-   Vous pouvez rechercher des utilisateurs existants ou ajouter un nouvel utilisateur en spécifiant une adresse électronique valide et en renseignant les informations à l’écran.
+   Vous pouvez rechercher des utilisateurs existants ou ajouter un nouvel utilisateur en spécifiant une adresse e-mail valide et en renseignant les informations à l’écran.
 
-   ![Ajouter un administrateur](assets/admin-console-add-admin.png)
+   ![Ajout d’un admin](assets/admin-console-add-admin.png)
 
 1. Cliquez sur **[!UICONTROL Suivant]**. Une liste des rôles d’administrateur s’affiche.
 
-Pour attribuer un rôle d’administrateur au service clientèle à un utilisateur (permettre à un utilisateur de contacter le service d’assistance) :
+Pour attribuer un rôle d’administrateur d’assistance à un utilisateur (permettre à un utilisateur de contacter le service d’assistance), procédez comme suit :
 
-1. Sélectionnez la variable **[!UICONTROL Administrateur de support]** .
+1. Sélectionnez l’option **[!UICONTROL Administrateur d’assistance]**.
 
-   ![Modifier les droits d’administrateur](assets/edit-admin-rights.png)
+   ![Modification des droits d’administrateur](assets/edit-admin-rights.png)
 
-1. Sélectionnez l’une des deux options suivantes :
+1. Sélectionnez l’une des deux options suivantes :
 
-   * Option 1 : **[!UICONTROL Administrateur de support de base]**. Sélectionnez cette option si vous souhaitez donner à l’utilisateur l’accès à l’assistance pour toutes les solutions (sauf Marketo Engage).
+   * Option 1 : **[!UICONTROL Administrateur d’assistance de base]**. Sélectionnez cette option si vous souhaitez donner à l’utilisateur l’accès à l’assistance pour toutes les solutions (sauf Marketo Engage).
    * Option 2 : **[!UICONTROL Administrateur de support produit]**: sélectionnez cette option pour la prise en charge des Marketo Engage. Sélectionnez les instances de Marketo Engage auxquelles accorder l’accès à l’assistance utilisateur.
 
-   ![Modifier les droits d’administrateur Marketo](assets/edit-admin-rights-advanced.png)
+   ![Modification des droits d’administrateur Marketo](assets/edit-admin-rights-advanced.png)
 
 1. Une fois les sélections effectuées, cliquez sur **[!UICONTROL Enregistrer]**.
 
@@ -59,7 +59,7 @@ L’utilisateur reçoit une invitation par e-mail concernant les nouveaux privil
 
 Les utilisateurs doivent cliquer sur **Commencer** dans l’e-mail pour rejoindre l’organisation. Si les nouveaux administrateurs n’utilisent pas le lien **Commencer** dans l’e-mail d’invitation, ils ne peuvent pas se connecter à l’Admin Console.
 
-Dans le cadre du processus de connexion, les utilisateurs peuvent être invités à configurer un profil Adobe s’ils n’en ont pas déjà un. Si plusieurs profils sont associés à leur adresse électronique, les utilisateurs doivent choisir **Rejoindre l’équipe** (si vous y êtes invité), puis sélectionnez le profil associé à la nouvelle organisation.
+Dans le cadre du processus de connexion, les utilisateurs peuvent être invités à configurer un profil Adobe s’ils n’en ont pas déjà un. Si plusieurs profils sont associés à leur adresse e-mail, les utilisateurs doivent choisir **Rejoindre l’équipe** (s’ils y sont invités), puis sélectionner le profil associé à la nouvelle organisation.
 
 ![Confirmation des droits d’administrateur](assets/admin-rights-confirmation.png)
 
