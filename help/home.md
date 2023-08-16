@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
 source-wordcount: '732'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -48,8 +48,8 @@ Pour attribuer un rôle d’administrateur d’assistance à un utilisateur (per
 
 1. Sélectionnez l’une des deux options suivantes :
 
-   * Option 1 : **[!UICONTROL Administrateur d’assistance de base]**. Sélectionnez cette option si vous souhaitez donner à l’utilisateur l’accès à l’assistance pour toutes les solutions (sauf Marketo Engage).
-   * Option 2 : **[!UICONTROL Administrateur de support produit]**: sélectionnez cette option pour la prise en charge des Marketo Engage. Sélectionnez les instances de Marketo Engage auxquelles accorder l’accès à l’assistance utilisateur.
+   * Option 1 : **[!UICONTROL Administrateur d’assistance de base]**. Sélectionnez cette option si vous souhaitez donner à l’utilisateur l’accès à l’assistance pour toutes les solutions (à l’exception de Marketo Engage).
+   * Option 2 : **[!UICONTROL Administrateur d’assistance produit]** : sélectionnez cette option pour la prise en charge de Marketo Engage. Sélectionnez les instances Marketo Engage auxquelles accorder l’accès à l’assistance utilisateur.
 
    ![Modification des droits d’administrateur Marketo](assets/edit-admin-rights-advanced.png)
 
@@ -63,7 +63,7 @@ Dans le cadre du processus de connexion, les utilisateurs peuvent être invités
 
 ![Confirmation des droits d’administrateur](assets/admin-rights-confirmation.png)
 
-Pour plus d’informations, suivez la [modifier le rôle d’administrateur d’entreprise](admin-roles.md#add-enterprise-role) instructions dans la documentation sur les rôles d’administration. Notez que seul un administrateur système de votre entreprise peut affecter ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation sur les [rôles administratifs](admin-roles.md).
+Pour plus d’informations, suivez les instructions relatives à la [modification du rôle d’administrateur d’entreprise](admin-roles.md#add-enterprise-role) dans la documentation sur les rôles d’administration. Notez que seul un administrateur système de votre entreprise peut affecter ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation sur les [rôles administratifs](admin-roles.md).
 
 ### Création d’un ticket d’assistance avec l’Admin Console
 
