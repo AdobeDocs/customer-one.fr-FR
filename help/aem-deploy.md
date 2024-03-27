@@ -1,12 +1,11 @@
 ---
 title: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de déploiement AEM
 description: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de déploiement AEM
-seo-title: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de déploiement AEM
-seo-description: Amélioration de l’expérience du service clientèle Adobe en cours - Contact de déploiement AEM
-translation-type: ht
+seo-title: Your New Adobe Customer Support Experience is Coming - AEM deploy contact
+seo-description: Your New Adobe Customer Support Experience is Coming - AEM deploy contact
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '342'
+source-wordcount: '297'
 ht-degree: 100%
 
 ---
@@ -32,11 +31,11 @@ En tant qu’administrateur système, vous avez accès au [!DNL Adobe Admin Cons
 
 >[!NOTE]
 >
->Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système des produits Adobe Experience Manager pour votre organisation en **remplissant et en envoyant le formulaire [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) d’ici au 4 novembre 2019**.
+>Veuillez confirmer que vous acceptez ce rôle (ou fournissez un autre point de contact) d’administrateur ou d’administratrice système pour les produits Adobe Experience Manager de votre organisation en **remplissant et en envoyant le [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) avant le 4 novembre 2019**.
 >
 >En remplissant ce formulaire, vous nous permettez d’être sûrs que les informations d’identification appropriées sont attribuées à l’administrateur système désigné pour votre organisation et de vous fournir plus de détails afin d’aider votre organisation à se préparer aux changements à venir.
 
-Une confirmation par email sera envoyée à réception du formulaire [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
+Un e-mail de confirmation sera envoyé dès réception du [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
 Pour toute question concernant cet email, veuillez nous contacter à l’adresse customercare@adobe.com.
 

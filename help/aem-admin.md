@@ -1,12 +1,11 @@
 ---
 title: AEM - Amélioration de l’expérience du service clientèle en cours
-seo-title: Adobe Experience Manager - Amélioration de l’expérience du service clientèle en cours
+seo-title: Adobe Experience Manager - New Support Experience Coming
 description: Adobe Experience Manager - Amélioration de l’expérience du service clientèle en cours
-seo-description: Adobe Experience Manager - Amélioration de l’expérience du service clientèle en cours
-translation-type: ht
+seo-description: Adobe Experience Manager - New Support Experience Coming
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '283'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
@@ -34,11 +33,11 @@ En tant qu’administrateur système, vous avez accès au [!DNL Adobe Admin Cons
 
 >[!NOTE]
 >
->Confirmez que vous acceptez ce rôle (ou fournissez un autre point de contact) en tant qu’administrateur système des produits Adobe Experience Manager pour votre organisation en **remplissant et en envoyant le formulaire [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) d’ici au 4 novembre 2019**.
+>Veuillez confirmer que vous acceptez ce rôle (ou fournissez un autre point de contact) d’administrateur ou d’administratrice système pour les produits Adobe Experience Manager de votre organisation en **remplissant et en envoyant le [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) avant le 4 novembre 2019**.
 >
 >En remplissant ce formulaire, vous nous permettez d’être sûrs que les informations d’identification appropriées sont attribuées à l’administrateur système désigné pour votre organisation.
 
-Une confirmation par email sera envoyée à réception du formulaire [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
+Un e-mail de confirmation sera envoyé dès réception du [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
 
 Pour toute question concernant cet email, veuillez nous contacter à l’adresse customercare@adobe.com.
 

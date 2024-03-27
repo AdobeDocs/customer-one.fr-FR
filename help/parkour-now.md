@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: ht
-source-wordcount: '453'
+source-wordcount: '450'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ En février et mars 2022, Adobe configurera les nouveaux administrateurs du sys
 Les administrateurs du système d’assistance et les administrateurs du service clientèle verront apparaître les e-mails générés par le système lorsque les utilisateurs du service d’assistance seront créés dans l’Admin Console. Ces deux rôles utilisateur pourront :
 
 * utiliser les outils de gestion qui facilitent le traitement des dossiers d’assistance avec le service clientèle Adobe ;
-* lancer facilement des conversations dans le chat avec le service clientèle Adobe pour Adobe Analytics ;
+* lancer facilement des conversations dans le chat avec l’assistance Adobe pour Adobe Analytics ;
 * bénéficier d’une meilleure visibilité de votre historique des services ;
 * Parcourir les rubriques d’aide et les forums populaires.
 

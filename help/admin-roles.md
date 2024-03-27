@@ -4,7 +4,7 @@ description: Avec Adobe Admin Console, les entreprises peuvent définir une hi
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: ht
-source-wordcount: '1640'
+source-wordcount: '1689'
 ht-degree: 100%
 
 ---
@@ -45,7 +45,7 @@ _Hiérarchie des rôles d’administrateur_
 
 Pour obtenir une liste détaillée des autorisations et des privilèges pour chaque rôle d’administrateur, consultez les [Autorisations](#enterprise-admins-permissions-matrix).
 
-## Ajout d’un administrateur Grands comptes rôle {#add-enterprise-role}
+## Ajout d’un rôle d’administrateur ou d’administratrice d’entreprise {#add-enterprise-role}
 
 S’applique aux clients Adobe Grands comptes.
 
@@ -65,7 +65,6 @@ Pour ajouter ou inviter un administrateur :
 >
 >* Les options de cet écran dépendent de votre compte et de votre rôle d’administrateur. Vous pouvez accorder les mêmes privilèges dont vous disposez, ou des privilèges liés à un rôle inférieur au vôtre dans la hiérarchie.
 >* En tant qu’administrateur système d’une équipe, vous ne pouvez affecter qu’un seul rôle d’administrateur : administrateur système.
-
 
 1. Sélectionnez un ou plusieurs rôles d’administrateur.
 1. Pour les types d’administrateurs tels qu’Administrateur de produit, Administrateur de profil de produit et Administrateur de groupe d’utilisateurs, sélectionnez respectivement les produits, les profils et les groupes pour chacun de ces rôles.
@@ -176,87 +175,87 @@ Le tableau suivant répertorie toutes les autorisations pour les différents typ
 
 | Autorisation | Administrateur système | Administrateur d’assistance |
 |--- |--- |--- |
-| Ajouter un domaine (demander/déposer un domaine) | ✔ |  |
-| Afficher des domaines et des listes de domaines | ✔ |  |
-| Gérer des clés de chiffrement de domaine | ✔ |  |
-| Gérer la stratégie de mot de passe par défaut de l’organisation | ✔ |  |
-| Afficher la stratégie de mot de passe par défaut de l’organisation | ✔ |  |
+| Ajouter un domaine (demander/déposer un domaine) | ✔ | |
+| Afficher des domaines et des listes de domaines | ✔ | |
+| Gérer des clés de chiffrement de domaine | ✔ | |
+| Gérer la stratégie de mot de passe par défaut de l’organisation | ✔ | |
+| Afficher la stratégie de mot de passe par défaut de l’organisation | ✔ | |
 
 ### Gestion des utilisateurs
 
 | Autorisation | Administrateur système | Administrateur d’assistance |
 |--- |--- |--- |
-| Ajouter un utilisateur à l’organisation | ✔ |  |
-| Supprimer un utilisateur de l’organisation | ✔ |  |
-| Afficher les informations et la liste des utilisateurs | ✔ |  |
-| Modifier le profil utilisateur | ✔ |  |
-| Ajouter un profil de produit à un utilisateur ou à un groupe | ✔ |  |
-| Supprimer un profil de produit pour un utilisateur ou un groupe | ✔ |  |
-| Ajouter un profil de produit à plusieurs utilisateurs | ✔ |  |
-| Afficher des profils de produit pour un utilisateur | ✔ |  |
-| Afficher la liste des utilisateurs de produits | ✔ |  |
-| Ajouter en masse des utilisateurs à l’organisation | ✔ |  |
+| Ajouter un utilisateur à l’organisation | ✔ | |
+| Supprimer un utilisateur de l’organisation | ✔ | |
+| Afficher les informations et la liste des utilisateurs | ✔ | |
+| Modifier le profil utilisateur | ✔ | |
+| Ajouter un profil de produit à un utilisateur ou à un groupe | ✔ | |
+| Supprimer un profil de produit pour un utilisateur ou un groupe | ✔ | |
+| Ajouter un profil de produit à plusieurs utilisateurs | ✔ | |
+| Afficher des profils de produit pour un utilisateur | ✔ | |
+| Afficher la liste des utilisateurs de produits | ✔ | |
+| Ajouter en masse des utilisateurs à l’organisation | ✔ | |
 
 ### Gestion des administrateurs
 
 | Autorisation | Administrateur système | Administrateur d’assistance |
 |--- |--- |--- |
-| Attribuer les droits administrateur d’organisation à un utilisateur | ✔ |  |
-| Révoquer les droits administrateur d’organisation d’un utilisateur | ✔ |  |
-| Attribuer les droits administrateur de licence produit à un utilisateur | ✔ |  |
-| Révoquer les droits administrateur de licence produit d’un utilisateur | ✔ |  |
-| Attribuer les droits administrateur de déploiement à un utilisateur | ✔ |  |
-| Révoquer les droits administrateur de déploiement d’un utilisateur | ✔ |  |
-| Attribuer les droits administrateur de groupe d’utilisateurs à un utilisateur | ✔ |  |
-| Révoquer les droits administrateur de groupe d’utilisateurs d’un utilisateur | ✔ |  |
-| Attribuer les droits administrateur de propriété produit à un utilisateur | ✔ |  |
-| Révoquer les droits administrateur de propriété produit d’un utilisateur | ✔ |  |
+| Attribuer les droits administrateur d’organisation à un utilisateur | ✔ | |
+| Révoquer les droits administrateur d’organisation d’un utilisateur | ✔ | |
+| Attribuer les droits administrateur de licence produit à un utilisateur | ✔ | |
+| Révoquer les droits administrateur de licence produit d’un utilisateur | ✔ | |
+| Attribuer les droits administrateur de déploiement à un utilisateur | ✔ | |
+| Révoquer les droits administrateur de déploiement d’un utilisateur | ✔ | |
+| Attribuer les droits administrateur de groupe d’utilisateurs à un utilisateur | ✔ | |
+| Révoquer les droits administrateur de groupe d’utilisateurs d’un utilisateur | ✔ | |
+| Attribuer les droits administrateur de propriété produit à un utilisateur | ✔ | |
+| Révoquer les droits administrateur de propriété produit d’un utilisateur | ✔ | |
 
 ### Gestion de la configuration des licences de produit
 
 | Autorisation | Administrateur système | Administrateur d’assistance |
 |--- |--- |--- |
-| Accorder des droits de produit à l’organisation |  |  |
-| Supprimer des droits de produit de l’organisation |  |  |
-| Afficher le nombre total de licences détenues par l’organisation | ✔ |  |
-| Afficher les produits et les familles de produits disponibles | ✔ |  |
-| Modifier les descriptions/données de licence produit | ✔ |  |
-| Octroi d’une licence produit à un utilisateur | ✔ |  |
-| Suppression d’une licence produit d’un utilisateur | ✔ |  |
-| Ajouter une nouvelle configuration de licence produit | ✔ |  |
-| Modifier la configuration du service de licence produit | ✔ |  |
-| Supprimer la configuration du service de licence produit | ✔ |  |
-| Supprimer l’accès d’un utilisateur à des produits (suppression de toutes les configurations) | ✔ |  |
+| Accorder des droits de produit à l’organisation | | |
+| Supprimer des droits de produit de l’organisation | | |
+| Afficher le nombre total de licences détenues par l’organisation | ✔ | |
+| Afficher les produits et les familles de produits disponibles | ✔ | |
+| Modifier les descriptions/données de licence produit | ✔ | |
+| Octroi d’une licence produit à un utilisateur | ✔ | |
+| Suppression d’une licence produit d’un utilisateur | ✔ | |
+| Ajouter une nouvelle configuration de licence produit | ✔ | |
+| Modifier la configuration du service de licence produit | ✔ | |
+| Supprimer la configuration du service de licence produit | ✔ | |
+| Supprimer l’accès d’un utilisateur à des produits (suppression de toutes les configurations) | ✔ | |
 
 ### Gestion du stockage
 
 | Autorisation | Administrateur système | Administrateur d’assistance |
 |--- |--- |--- |
-| Afficher les dossiers d’utilisateurs actifs et inactifs | ✔ |  |
-| Supprimer les dossiers d’utilisateurs inactifs et transférer le contenu concerné | ✔ |  |
+| Afficher les dossiers d’utilisateurs actifs et inactifs | ✔ | |
+| Supprimer les dossiers d’utilisateurs inactifs et transférer le contenu concerné | ✔ | |
 
 ### Déploiement
 
 | Autorisation | Administrateur système | Administrateur d’assistance |
 |--- |--- |--- |
-| Afficher/utiliser l’onglet Packages | ✔ |  |
+| Afficher/utiliser l’onglet Packages | ✔ | |
 
 ### Assistance
 
 | Autorisation | Administrateur système | Administrateur d’assistance |
 |--- |--- |--- |
-| Afficher l’onglet Assistance | ✔ |  |
+| Afficher l’onglet Assistance | ✔ | |
 | Gestion des cas d’assistance | ✔ | ✔ |
 
 ### Gestion des groupes d’utilisateurs
 
 | Autorisation | Administrateur système | Administrateur d’assistance |
 |--- |--- |--- |
-| Créer un groupe d’utilisateurs | ✔ |  |
-| Supprimer un groupe d’utilisateurs | ✔ |  |
-| Ajouter un utilisateur à un groupe d’utilisateurs | ✔ |  |
-| Supprimer un utilisateur d’un groupe d’utilisateurs | ✔ |  |
-| Attribuer un groupe d’utilisateurs à une licence produit | ✔ |  |
-| Supprimer un groupe d’utilisateurs d’une licence produit | ✔ |  |
+| Créer un groupe d’utilisateurs | ✔ | |
+| Supprimer un groupe d’utilisateurs | ✔ | |
+| Ajouter un utilisateur à un groupe d’utilisateurs | ✔ | |
+| Supprimer un utilisateur d’un groupe d’utilisateurs | ✔ | |
+| Attribuer un groupe d’utilisateurs à une licence produit | ✔ | |
+| Supprimer un groupe d’utilisateurs d’une licence produit | ✔ | |
 | Afficher un membre d’un groupe d’utilisateurs | ✔ | ✔ |
 | Afficher la liste des groupes d’utilisateurs | ✔ | ✔ |
