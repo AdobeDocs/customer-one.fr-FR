@@ -9,7 +9,7 @@ user-guide-title: "[!DNL Customer One for Enterprise] Aide"
 source-git-commit: c4264713b8ce26b78ac04c6ad2cd5f33512c6702
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 # [!DNL Customer One for Enterprise] {#using}
 
 + [Introduction](home.md)
-+ [Mise à jour du numéro de téléphone de l’assistance](phone-numbers.md)
++ [Mise à jour du numéro de téléphone d’assistance](phone-numbers.md)
 + [Rôles d’administration](admin-roles.md)
 + [Contacter l’assistance clientèle d’Adobe](customer-care.md)
 + Documents de référence {#ref-docs}
