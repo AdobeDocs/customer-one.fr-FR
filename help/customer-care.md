@@ -3,7 +3,7 @@ title: Contacter l’assistance clientèle d’Adobe
 description: Informations sur le mode de contact avec l’assistance clientèle Adobe pour les clients Équipe, Grands comptes et Experience Cloud.
 exl-id: 4df547f1-d476-4b52-a0f1-c9d7c32679f7
 source-git-commit: 9812c6947b67797bb682581bea9c99b9d67884b6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
 

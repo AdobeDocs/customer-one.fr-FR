@@ -4,7 +4,7 @@ seo-title: Adobe Campaign - New enterprise support experience is coming
 description: Adobe Campaign - Amélioration de l’expérience du service clientèle en cours
 seo-description: Adobe Campaign - New enterprise support experience is coming
 source-git-commit: abf43d94c879d6cafaede13324225a8a1f91a6e9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 100%
 
