@@ -6,29 +6,29 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '860'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
 # Expérience du service clientèle d’Adobe
 
-## Tickets d’assistance Experience League
+## Tickets d’assistance Experience League
 
-Les tickets d&#39;assistance sont maintenant envoyés via [Experience League](https://experienceleague.adobe.com/home#support). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section [envoi d’un ticket d’assistance](#submit-ticket).
+Les tickets d’assistance sont maintenant envoyés via [Experience League](https://experienceleague.adobe.com/home#support). Pour obtenir des instructions sur la manière d’envoyer un ticket d’assistance, consultez la section [Envoi d’un ticket d’assistance](#submit-ticket).
 
-Nous nous efforçons d’améliorer votre interaction avec le service clientèle d’Adobe. Notre vision consiste à simplifier l’expérience du service clientèle en passant à un point d’entrée unique, en utilisant Experience League. Votre entreprise pourra alors facilement accéder au service clientèle Adobe, bénéficier de la visibilité offerte par l’historique de ses services via un portail d’entrée commun et demander de l’aide par téléphone, sur le web ou le chat par le biais d’un portail unique.
+Nous nous efforçons d’améliorer votre interaction avec le service clientèle d’Adobe. Notre objectif est de simplifier l’assistance en migrant vers un point d’accès unique, en utilisant Experience League. Une fois ce service activé, votre entreprise pourra accéder facilement au service clientèle Adobe, bénéficier d’une meilleure visibilité de l’historique de vos services grâce à un système unifié pour tous les produits, et demander de l’aide par téléphone, sur le Web ou par chat par le biais d’un portail unique.
 
-Si vous êtes un utilisateur d’Adobe Commerce, reportez-vous à la section [Envoi d’un cas d’assistance](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) du Guide de l’utilisateur de l’assistance Experience League pour Adobe Commerce.
+Si vous utilisez Adobe Commerce, reportez-vous à la section [Envoyer un dossier d’assistance](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) dans le Guide de l’utilisateur de l’assistance Experience League pour Adobe Commerce.
 
 ## Prise en charge des rôles autorisés nécessaires pour l’envoi de dossiers {#submit-ticket}
 
-Pour envoyer un ticket d’assistance dans [Experience League](https://experienceleague.adobe.com/home#support), un administrateur système doit vous attribuer le rôle d’administrateur d’assistance. Seul un administrateur système de votre entreprise peut affecter ce rôle. Les rôles d’administrateur de produit et de profil de produit et les autres rôles d’administration ne peuvent pas affecter le rôle d’administrateur d’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour en savoir plus sur les différents types de rôles d’administrateur et leurs droits, reportez-vous à la section [Rôles d’administrateur](admin-roles.md).
+Pour envoyer un ticket d’assistance dans [Experience League](https://experienceleague.adobe.com/home#support), vous devez disposer du rôle Administrateur d’assistance attribué par un membre de l’administration système. Seul un administrateur système de votre entreprise peut affecter ce rôle. Les rôles d’administrateur de produit et de profil de produit et les autres rôles d’administration ne peuvent pas affecter le rôle d’administrateur d’assistance et ne peuvent pas afficher l’option **[!UICONTROL Créer un dossier]** utilisée pour envoyer un ticket d’assistance. Pour en savoir plus sur les différents types de rôles d’administration et les droits associés, reportez-vous à la section [Rôles d’administration](admin-roles.md).
 
-Si vous utilisez Commerce, le processus de partage de l’accès pour travailler avec les cas d’assistance est différent. Pour en savoir plus, reportez-vous à la section [Accès partagé : accorder des privilèges à d’autres utilisateurs pour accéder à votre compte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) dans le Guide de l’utilisateur de l’assistance Experience League pour Adobe Commerce.
+Si vous utilisez Commerce, la procédure de partage de l’accès pour le traitement des dossiers d’assistance est différente. Pour en savoir plus, reportez-vous à la section [Accès partagé : accorder des privilèges pour permettre à d’autres personnes d’accéder à votre compte](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) dans le guide de l’utilisateur de l’assistance Experience League pour Adobe Commerce.
 
-### Ajout de rôles d’autorisation de prise en charge à une organisation
+### Ajout de rôles d’autorisation d’assistance à une organisation
 
 Le rôle d’administrateur d’assistance est un rôle non administratif qui permet d’accéder aux informations relatives à l’assistance. Les administrateurs d’assistance peuvent afficher, créer et gérer des rapports sur des problèmes.
 
@@ -69,27 +69,27 @@ Dans le cadre du processus de connexion, les utilisateurs peuvent être invités
 
 Pour plus d’informations, suivez les instructions relatives à la [modification du rôle d’administrateur d’entreprise](admin-roles.md#add-enterprise-role) dans la documentation sur les rôles d’administration. Notez que seul un administrateur système de votre entreprise peut affecter ce rôle. Pour plus d’informations sur la hiérarchie administrative, consultez la documentation sur les [rôles administratifs](admin-roles.md).
 
-### Créer un ticket d’assistance avec un Experience League
+### Création d’un ticket d’assistance avec Experience League
 
-Le processus d’envoi de dossiers d’assistance est désormais directement intégré à la plateforme d’assistance Experience League. Il s’agit d’un portail en libre-service qui a été récemment repensé afin d’offrir plus de personnalisation et de facilité d’utilisation aux clients autorisés.
+Désormais, le processus d’envoi de dossiers d’assistance est directement intégré à la plateforme d’assistance d’Experience League. Il s’agit d’un portail en libre-service qui a fait récemment l’objet d’une refonte complète afin d’offrir plus d’options de personnalisation et une utilisation plus facile aux personnes autorisées.
 
-1. Pour créer un ticket à l’aide de [Experience League](https://experienceleague.adobe.com/home#support), sélectionnez l’onglet **[!UICONTROL Assistance]** situé dans le volet de navigation supérieur.
-   ![ Onglet Support de la ligue d’expérience](./assets/experience-league-support-tab.png)
-1. Sur la page d’accueil de l’assistance, vous pouvez facilement accéder à vos dossiers d’assistance ouverts, enregistrer un nouveau cas, afficher les principaux articles de l’assistance ou accéder à des sources d’apprentissage supplémentaires.
-   ![ Ressources d’assistance de la ligue d’expérience](./assets/experience-league-support-resources.png)
-1. Pour soumettre un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Sélectionnez également l’option **[!UICONTROL Ouvrir le ticket]** dans le menu de la barre latérale. Vous serez redirigé vers la page de création de cas, où vous pourrez saisir le nom de votre produit (Audience Manager, Campaign, Target, etc.), le titre du cas et la description du cas. Pour accélérer le processus de dépannage, veuillez être aussi descriptif que possible lors de la description du problème que vous rencontrez.
-   ![ticket d’ouverture de la ligue d’expérience](./assets/experience-league-open-ticket.png)
-1. A la fin du formulaire, renseignez les champs suivants. Lors de la sélection d’une solution, les questions suivantes vous sont posées, et certaines solutions comportent des champs supplémentaires :
+1. Pour créer un ticket à l’aide d’[Experience League](https://experienceleague.adobe.com/home#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans le volet de navigation supérieur.
+   ![ Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
+1. Sur la page d’accueil de l’assistance, vous pouvez facilement accéder à vos dossiers d’assistance ouverts, enregistrer un nouveau dossier, afficher les principaux articles de l’assistance ou encore accéder à des sources d’apprentissage supplémentaires.
+   ![ Ressources d’assistance Experience League](./assets/experience-league-support-resources.png)
+1. Pour envoyer un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Sélectionnez également l’option **[!UICONTROL Ouvrir un ticket]** dans le menu de la barre latérale. Vous accédez alors à la page de création d’un dossier, où vous pouvez saisir le nom de votre produit (Audience Manager, Campaign, Target, etc.), le titre du dossier ainsi que sa description. Pour accélérer le processus de résolution des problèmes, décrivez aussi précisément que possible le problème que vous rencontrez.
+   ![Ouverture d’un ticket Experience League](./assets/experience-league-open-ticket.png)
+1. À la fin du formulaire, renseignez les champs suivants. Lorsque vous sélectionnez une solution, les informations suivantes vous sont demandées, et certaines solutions comportent des champs supplémentaires :
 
-   * Priorité des cas (Faible, Medium, Élevé, Critique)
+   * Priorité des dossiers (Faible, Moyenne, Élevée, Critique)
    * Impact commercial
    * Fuseau horaire du client (Amériques, EMEA, APAC)
 
-![Priorité des tickets d&#39;Experience League](./assets/experience-league-ticket-priority.png)
+![Priorité des tickets Experience League](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
-> Si vous ne parvenez pas à voir l’option **[!UICONTROL Créer un dossier]** ou l’onglet **[!UICONTROL Support technique]**, contactez un administrateur système pour obtenir le rôle d’administrateur d’assistance.
+> Si vous ne parvenez pas à voir l’option **[!UICONTROL Créer un dossier]** ou l’onglet **[!UICONTROL Support technique]**, contactez une personne en charge de l’administration système pour obtenir le rôle Administrateur d’assistance.
 
 
 
@@ -100,7 +100,7 @@ Le processus d’envoi de dossiers d’assistance est désormais directement int
 
 >[!NOTE]
 >
-> Si le problème entraîne des pannes ou des interruptions graves d’un système de production, un numéro de téléphone est fourni pour une assistance immédiate.
+> Si le problème cause des pannes ou de graves interruptions de service d’un système de production, un numéro de téléphone vous est fourni pour obtenir une assistance immédiate.
 
 
 
