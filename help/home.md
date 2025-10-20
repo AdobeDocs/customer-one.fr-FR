@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
 workflow-type: tm+mt
 source-wordcount: '942'
-ht-degree: 84%
+ht-degree: 87%
 
 ---
 
@@ -78,9 +78,9 @@ Pour plus d’informations, suivez les instructions relatives à la [modificatio
 Désormais, le processus d’envoi de dossiers d’assistance est directement intégré à la plateforme d’assistance d’Experience League. Il s’agit d’un portail en libre-service qui a fait récemment l’objet d’une refonte complète afin d’offrir plus d’options de personnalisation et une utilisation plus facile aux personnes autorisées.
 
 1. Pour créer un ticket à l’aide d’[Experience League](https://experienceleague.adobe.com/home?lang=fr#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans le volet de navigation supérieur.
-   ![&#x200B; Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
+   ![ Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
 1. Sur la page d’accueil de l’assistance, vous pouvez facilement accéder à vos dossiers d’assistance ouverts, enregistrer un nouveau dossier, afficher les principaux articles de l’assistance ou encore accéder à des sources d’apprentissage supplémentaires.
-   ![&#x200B; Ressources d’assistance Experience League](./assets/experience-league-support-resources.png)
+   ![ Ressources d’assistance Experience League](./assets/experience-league-support-resources.png)
 1. Pour envoyer un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Sélectionnez également l’option **[!UICONTROL Ouvrir le ticket]** dans le menu de la barre latérale.
 
 
@@ -110,7 +110,7 @@ Désormais, le processus d’envoi de dossiers d’assistance est directement in
    * Impact commercial
    * Fuseau horaire du client (Amériques, EMEA, APAC)
 
-   Pour plus d’informations sur l’impact de la priorité de cas et de l’impact commercial sur les temps de réponse de l’assistance, reportez-vous à [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) dans la documentation sur les ressources des plans de réussite.
+   Pour plus d’informations sur l’impact de la priorité de cas et de l’impact commercial sur les temps de réponse de l’assistance, reportez-vous à [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) dans la documentation relative aux ressources des plans de réussite.
 
 ![Priorité des tickets Experience League](./assets/experience-league-ticket-priority.png)
 
