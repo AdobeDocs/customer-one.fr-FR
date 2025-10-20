@@ -78,9 +78,9 @@ Pour plus d’informations, suivez les instructions relatives à la [modificatio
 Désormais, le processus d’envoi de dossiers d’assistance est directement intégré à la plateforme d’assistance d’Experience League. Il s’agit d’un portail en libre-service qui a fait récemment l’objet d’une refonte complète afin d’offrir plus d’options de personnalisation et une utilisation plus facile aux personnes autorisées.
 
 1. Pour créer un ticket à l’aide d’[Experience League](https://experienceleague.adobe.com/home?lang=fr#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans le volet de navigation supérieur.
-   ![ Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
+   ![&#x200B; Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
 1. Sur la page d’accueil de l’assistance, vous pouvez facilement accéder à vos dossiers d’assistance ouverts, enregistrer un nouveau dossier, afficher les principaux articles de l’assistance ou encore accéder à des sources d’apprentissage supplémentaires.
-   ![ Ressources d’assistance Experience League](./assets/experience-league-support-resources.png)
+   ![&#x200B; Ressources d’assistance Experience League](./assets/experience-league-support-resources.png)
 1. Pour envoyer un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Sélectionnez également l’option **[!UICONTROL Ouvrir le ticket]** dans le menu de la barre latérale.
 
 
