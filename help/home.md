@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '942'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -73,32 +73,32 @@ Pour plus d’informations, suivez les instructions relatives à la [modificatio
 
 >[!NOTE]
 >
-> Avant d’envoyer un ticket d’assistance, vérifiez les performances du système Adobe, sa disponibilité et les problèmes de solution sur le site [Statut d’Adobe](https://status.adobe.com).
+> Avant d’envoyer un ticket d’assistance, vérifiez les performances du système Adobe, sa disponibilité et les problèmes de solution sur le site [Statut d’Adobe](https://status.adobe.com/fr).
 
 Désormais, le processus d’envoi de dossiers d’assistance est directement intégré à la plateforme d’assistance d’Experience League. Il s’agit d’un portail en libre-service qui a fait récemment l’objet d’une refonte complète afin d’offrir plus d’options de personnalisation et une utilisation plus facile aux personnes autorisées.
 
 1. Pour créer un ticket à l’aide d’[Experience League](https://experienceleague.adobe.com/home?lang=fr#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans le volet de navigation supérieur.
-   ![&#x200B; Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
+   ![ Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
 1. Sur la page d’accueil de l’assistance, vous pouvez facilement accéder à vos dossiers d’assistance ouverts, enregistrer un nouveau dossier, afficher les principaux articles de l’assistance ou encore accéder à des sources d’apprentissage supplémentaires.
-   ![&#x200B; Ressources d’assistance Experience League](./assets/experience-league-support-resources.png)
-1. Pour envoyer un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Sélectionnez également l’option **[!UICONTROL Ouvrir le ticket]** dans le menu de la barre latérale.
+   ![ Ressources d’assistance Experience League](./assets/experience-league-support-resources.png)
+1. Pour envoyer un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Sélectionnez également l’option **[!UICONTROL Ouvrir un ticket]** dans le menu de la barre latérale.
 
 
 ### Remplir le ticket d’assistance
 
-1. Après avoir sélectionné **[!UICONTROL Ouvrir un ticket d’assistance]** vous serez dirigé vers la page de création du dossier, où vous pourrez saisir le nom de votre produit (Audience Manager, Campaign, Target, etc.), **[!UICONTROL le titre du dossier]** et **[!UICONTROL la description du dossier]**.
+1. Après avoir sélectionné **[!UICONTROL Ouvrir un ticket d’assistance]**, vous accédez à la page de création d’un incident, où vous pouvez saisir le nom de votre produit (Audience Manager, Campaign, Target, etc.), le **[!UICONTROL titre de l’incident]** ainsi que la **[!UICONTROL description de l’incident]**.
 
    ![Ouverture d’un ticket Experience League](./assets/experience-league-open-ticket.png)
 
-   Pour accélérer le processus de dépannage, ajoutez les informations suivantes dans le champ **[!UICONTROL Description du cas]** :
+   Pour accélérer le processus de dépannage, ajoutez les informations suivantes dans le champ **[!UICONTROL Description de l’incident]** :
 
-   * Effacer l&#39;énoncé du problème
-   * Procédure à suivre
-   * Déclaration d&#39;impact sur l&#39;entreprise
-   * S’agit-il d’une nouvelle implémentation/fonctionnalité/développement ?
-   * Quand le processus a-t-il fonctionné?
+   * Effacer l’énoncé du problème
+   * Étapes à suivre pour reproduire le problème
+   * Description de l’impact sur l’activité
+   * S’agit-il d’une nouvelle implémentation, d’une nouvelle fonctionnalité ou d’un nouveau développement ?
+   * Quand le processus a-t-il fonctionné ?
    * Étapes de dépannage effectuées
-   * Données de log pertinentes
+   * Données de journaux pertinentes
    * Numéro de version
    * Infos sur le build (le cas échéant)
    * Identifiants critiques
