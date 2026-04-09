@@ -4,10 +4,10 @@ description: Première communication client pour la nouvelle expérience du serv
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
-source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
+source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 100%
+source-wordcount: '391'
+ht-degree: 85%
 
 ---
 
@@ -17,7 +17,7 @@ Nous tenons à nos clients et nous efforçons de leur permettre d’obtenir plus
 
 ## Informations complémentaires
 
-Adobe configurera en février et mars les nouveaux utilisateurs et administrateurs du système d’assistance sur ce portail. S’il apparaît dans nos dossiers que vous exercez actuellement la fonction d’administrateur du système d’assistance dans Adobe Admin Console, ou si votre nom figurait dans le contrat de vente comme contact client d’Adobe pour le déploiement d’Adobe Campaign ou d’Adobe Experience Manager au sein de votre entreprise, vous serez défini comme administrateur du système d’assistance pour votre entreprise.
+Adobe configurera en février et mars les nouveaux utilisateurs et administrateurs du système d’assistance sur ce portail. Si nos enregistrements indiquent que vous agissez actuellement en tant qu’administrateur système d’assistance dans Adobe Admin Console, ou si votre nom a été répertorié dans le contrat d’achat en tant que contact client Adobe pour le déploiement d’Adobe Campaign et/ou de Adobe Experience Manager au sein de votre organisation, vous serez configuré en tant qu’administrateur système d’assistance pour votre organisation.
 Les administrateurs du système d’assistance auront les fonctions de super-utilisateurs dans Admin Console et recevront les emails générés par le système lors de la création d’un nouvel utilisateur. Ils pourront par ailleurs :
 
 * créer / supprimer des utilisateurs de l’assistance dans le portail et contrôler les rôles d’accès ;
