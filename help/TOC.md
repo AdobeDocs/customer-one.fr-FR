@@ -5,11 +5,11 @@ feature-set: Experience Cloud
 feature: Support
 sub-product: customer one
 audience: end-user
-user-guide-title: « Aide [!DNL Customer One for Enterprise] »
-source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
+user-guide-title: '[!DNL Customer One for Enterprise] Aide'
+source-git-commit: 533f79ec31fd301fcaa465cd0cfe08904ebff920
+workflow-type: tm+mt
 source-wordcount: '23'
-ht-degree: 100%
+ht-degree: 60%
 
 ---
 
@@ -20,11 +20,9 @@ ht-degree: 100%
 + [Mise à jour du numéro de téléphone d’assistance](phone-numbers.md)
 + [Rôles d’administration](admin-roles.md)
 + Documents de référence {#ref-docs}
-   + [Annonce préalable](intro-customer-support.md)
-   + [Annonce de Parkour Now](parkour-now.md)
+   + {hide-from-toc}[annonce préalable](intro-customer-support.md)
+   + {hide-from-toc}[Annonce de Parkour Now](parkour-now.md)
 + Documents Workfront {#workfront}
    + [Présentation](overview.md)
    + [Destination](landing.md)
    + [Questions fréquentes](faq.md)
-
-
