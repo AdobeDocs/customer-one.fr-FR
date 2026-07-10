@@ -3,10 +3,17 @@ title: Rôles administratifs
 description: Avec Adobe Admin Console, les entreprises peuvent définir une hiérarchie administrative flexible qui permet une gestion affinée de l’accès et de l’utilisation des produits Adobe.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: d901b097-46a8-4d66-aaed-6f7b45e5d1deid: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+  - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
+  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 1647
@@ -32,7 +39,7 @@ La hiérarchie administrative peut être utilisée en fonction des besoins uniqu
 
 >[!NOTE]
 >
->La hiérarchie administrative ne s’applique pas aux clients Équipe. Les clients Équipe ne disposent que d’un seul rôle **Administrateur système**. Le propriétaire du contrat (_précédemment appelé&#x200B;**Administrateur principal**_) est l’administrateur système qui a accès aux détails du contrat et à l’historique de facturation. Si vous êtes le propriétaire actuel du contrat, vous pouvez nommer un administrateur système existant (_ précédemment appelé **Administrateur secondaire**_) en tant que propriétaire du contrat.
+>La hiérarchie administrative ne s’applique pas aux clients Équipe. Les clients Équipe ne disposent que d’un seul rôle **Administrateur système**. Le propriétaire du contrat (_précédemment appelé&#x200B;**Administrateur principal**&#x200B;_) est l’administrateur système qui a accès aux détails du contrat et à l’historique de facturation. Si vous êtes le propriétaire actuel du contrat, vous pouvez nommer un administrateur système existant (_ précédemment appelé **Administrateur secondaire**&#x200B;_) en tant que propriétaire du contrat.
 
 ![image des admins](assets/storage_admin.png)
 

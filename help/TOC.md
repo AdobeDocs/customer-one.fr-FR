@@ -19,7 +19,7 @@ ht-degree: 60%
 + [Portail d’assistance Experience League](home.md)
 + [Mise à jour du numéro de téléphone d’assistance](phone-numbers.md)
 + [Rôles d’administration](admin-roles.md)
-+ Documents de référence {hide-from-toc} {#ref-docs}
++ {hide-from-toc}Documents de référence  {#ref-docs}
    + {hide-from-toc}[annonce préalable](intro-customer-support.md)
    + {hide-from-toc}[Annonce de Parkour Now](parkour-now.md)
 + Documents Workfront {#workfront}
