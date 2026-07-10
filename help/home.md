@@ -5,7 +5,7 @@ description: Nouvelle expérience du service clientèle d’Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: '1006'
 ht-degree: 100%
@@ -78,9 +78,13 @@ Pour plus d’informations, suivez les instructions relatives à la [modificatio
 Désormais, le processus d’envoi de dossiers d’assistance est directement intégré à la plateforme d’assistance d’Experience League. Il s’agit d’un portail en libre-service qui a fait récemment l’objet d’une refonte complète afin d’offrir plus d’options de personnalisation et une utilisation plus facile aux personnes autorisées.
 
 1. Pour créer un ticket à l’aide d’[Experience League](https://experienceleague.adobe.com/home?lang=fr#support), sélectionnez l’onglet **[!UICONTROL Assistance]** dans le volet de navigation supérieur.
+
    ![ Onglet Assistance d’Experience League](./assets/experience-league-support-tab.png)
+
 1. Sur la page d’accueil de l’assistance, vous pouvez facilement accéder à vos dossiers d’assistance ouverts, enregistrer un nouveau dossier, afficher les principaux articles de l’assistance ou encore accéder à des sources d’apprentissage supplémentaires.
+
    ![ Ressources d’assistance Experience League](./assets/experience-league-support-resources.png)
+
 1. Pour envoyer un dossier, sélectionnez **[!UICONTROL Ouvrir un ticket d’assistance]**. Sélectionnez également l’option **[!UICONTROL Ouvrir un ticket]** dans le menu de la barre latérale.
 
 
@@ -112,16 +116,11 @@ Désormais, le processus d’envoi de dossiers d’assistance est directement in
 
    Pour plus d’informations sur l’impact de la priorité de cas et de l’impact commercial sur les temps de réponse de l’assistance, reportez-vous à [Temps de réponse initiaux ciblés pour l’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) dans la documentation relative aux ressources des plans de réussite.
 
-![Priorité des tickets Experience League](./assets/experience-league-ticket-priority.png)
+   ![Priorité des tickets Experience League](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > Si vous ne parvenez pas à voir l’option **[!UICONTROL Créer un dossier]** ou l’onglet **[!UICONTROL Support technique]**, contactez une personne en charge de l’administration système pour obtenir le rôle Administrateur d’assistance.
-
-
-
-
-
 
 
 
