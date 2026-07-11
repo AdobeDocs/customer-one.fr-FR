@@ -14,7 +14,7 @@ subfeature_v2:
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 1647
 ht-degree: 97%
@@ -121,8 +121,7 @@ Pour ajouter ou inviter un administrateur système :
 
 ![image d’administrateur Équipe](assets/teams-admin.png)
 
-Comme tous les utilisateurs d’une organisation de type Équipe sont des utilisateurs disposant d’un ID professionnel, ils reçoivent une invitation par e-mail concernant les nouveaux privilèges d’administrateur de la part de `message@adobe.com`.
-Les utilisateurs doivent cliquer sur Commencer dans l’e-mail pour rejoindre l’organisation.
+Comme tous les utilisateurs d’une organisation de type Équipe sont des utilisateurs disposant d’un ID professionnel, ils reçoivent une invitation par e-mail concernant les nouveaux privilèges d’administrateur de la part de `message@adobe.com`.Les utilisateurs doivent cliquer sur Commencer dans l’e-mail pour rejoindre l’organisation.
 
 Dans le cadre du processus de connexion, les utilisateurs peuvent être invités à configurer un profil Adobe s’ils n’en ont pas déjà un. Si plusieurs profils sont associés à leur e-mail, les utilisateurs doivent choisir « Rejoindre l’équipe » (si vous y êtes invité), puis sélectionner le profil associé à la nouvelle organisation.
 
@@ -271,3 +270,4 @@ Le tableau suivant répertorie toutes les autorisations pour les différents typ
 | Supprimer un groupe d’utilisateurs d’une licence produit | ✔ | |
 | Afficher un membre d’un groupe d’utilisateurs | ✔ | ✔ |
 | Afficher la liste des groupes d’utilisateurs | ✔ | ✔ |
+

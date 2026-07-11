@@ -2,7 +2,7 @@
 title: Indiquer le numéro de téléphone d’assistance préféré
 description: Mise à jour des numéros de téléphone d’assistance Adobe. Indiquez votre numéro de téléphone d’assistance préféré.
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
-source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
@@ -32,3 +32,4 @@ Pour indiquer votre numéro de téléphone préféré :
 ![ajouter un numéro de téléphone](assets/enter-phone-number.png)
 
 ![résultats](assets/result.png)
+
